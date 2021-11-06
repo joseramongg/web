@@ -1,6 +1,6 @@
-## Bienvenid@s a mi web minimalista
-
 ![](fotojr.jpeg "José Ramón García")  
+
+## Bienvenid@s a mi web minimalista
 
 Puedes acceder a mi perfil de [Linkedin](https://www.linkedin.com/in/joseramongg){:target="_blank"} para conocer toda mi trayectoria profesional.
 
