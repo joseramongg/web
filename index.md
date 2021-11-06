@@ -17,4 +17,4 @@ Si lo necesitas puedes enviarme un email a:
 ### Artículos
 
 [Primer artículo](Artículo1)  
-[Segundo artículo](web/_posts/sample)
+[Segundo artículo](/_posts/sample)
