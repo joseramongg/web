@@ -17,10 +17,10 @@
       <header>
         
         {% if site.logo %}
-          </right><img src="{{site.logo | relative_url}}" alt="Logo" /></right>
+          <right><img src="{{site.logo | relative_url}}" alt="Logo" /></right>
         {% endif %}
         
-        <p></right><h3><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h3></right></p>
+        <p><right><h3><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h3></right></p>
 
         
         <p>{{ site.description | default: site.github.project_tagline }}</p>
