@@ -1,9 +1,14 @@
 theme: jekyll-theme-minimal
 title: José Ramón García
-subtitle: "José Ramón García"
-name: José Ramón García
 logo: fotojr.jpeg
 description: [Bienvenid@s a mi web minimalista si es que a esto se le puede llamar una web. ;)]
 google_analytics:
 github:
   is_project_page: false
+  
+  
+  author:
+  name     : "Your Name"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "My awesome biography constrained to a sentence or two goes here."
+  location : "Somewhere, USA"
