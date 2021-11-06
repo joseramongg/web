@@ -1,6 +1,6 @@
 ## Bienvenid@s a mi web minimalista
 
-![](https://github.com/joseramongg/web/blob/gh-pages/fotojr.jpeg "José Ramón García)  
+![](fotojr.jpeg "José Ramón García)  
 
 Puedes acceder a mi perfil de [Linkedin](https://www.linkedin.com/in/joseramongg){:target="_blank"} para conocer toda mi trayectoria profesional.
 
