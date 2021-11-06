@@ -10,7 +10,8 @@ Si lo necesitas puedes enviarme un email a:
 [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"}   
 
 ### Enlaces a sitios favoritos
-[loentinedo.com](https://loentiendo.com/){:target="_blank"}  
+[Loentinedo.com](https://loentiendo.com/){:target="_blank"}  
 [The Conversation](https://theconversation.com/es){:target="_blank"}  
 [Fundación Secretariado Gitano](https://www.gitanos.org/){:target="_blank"}  
 [Acceder](https://www.accederempresas.com/){:target="_blank"}  
+[Markdown](https://markdown.es){:target="_blank"}  
