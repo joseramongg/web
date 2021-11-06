@@ -1,4 +1,4 @@
-
+![](fotojr.jpeg "José Ramón García")  
 
 ## Bienvenid@s a mi web minimalista
 
