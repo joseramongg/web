@@ -9,3 +9,5 @@ También puedes consultar información que comparto en:
 Si lo necesitas puedes enviarme un email a:  
 [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"}   
 
+### Enlaces a sitios favoritos
+
