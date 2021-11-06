@@ -14,11 +14,11 @@
   </head>
   <body>
     <div class="wrapper">
-      <right><header>
+      <header>
       
         
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <right><img src="{{site.logo | relative_url}}" alt="Logo" /></right>
         {% endif %}
         
         <p><h3><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h3></p>
@@ -42,7 +42,7 @@
         </ul>
         {% endif %}
       
-      </header></right>
+      </header>
     
       <section>
 
