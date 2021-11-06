@@ -1,6 +1,6 @@
 ## Bienvenid@s a mi web
 
-Puedes acceder a mi perfil de [Linkedin] (https://linkedin.com/joseramongg/) para conocer toda mi trayectoria profesional.
+Puedes acceder a mi perfil de [Linkedin](https://www.linkedin.com/in/joseramongg) para conocer toda mi trayectoria profesional.
 
 ### Markdown
 
