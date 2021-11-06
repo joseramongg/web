@@ -7,9 +7,6 @@ Accede a mi perfil de [Linkedin](https://www.linkedin.com/in/joseramongg){:targe
 Si lo necesitas puedes enviarme un email a:  
 [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"}   
 
-### Artículos
-
-
 ### Enlaces a sitios favoritos
 [Loentiendo.com](https://loentiendo.com/){:target="_blank"}  
 [The Conversation](https://theconversation.com/es){:target="_blank"}  
@@ -17,3 +14,6 @@ Si lo necesitas puedes enviarme un email a:
 [Acceder](https://www.accederempresas.com/){:target="_blank"}  
 [Markdown](https://markdown.es){:target="_blank"}  
 
+### Artículos
+
+[Primer artículo]()
