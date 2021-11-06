@@ -1,5 +1,7 @@
 ## Bienvenid@s a mi web minimalista
 
+!(https://github.com/joseramongg/web/blob/gh-pages/fotojr.jpeg)  
+
 Puedes acceder a mi perfil de [Linkedin](https://www.linkedin.com/in/joseramongg){:target="_blank"} para conocer toda mi trayectoria profesional.
 
 También puedes consultar información que comparto en:  
