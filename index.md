@@ -2,4 +2,6 @@
 
 Puedes acceder a mi perfil de [Linkedin](https://www.linkedin.com/in/joseramongg) para conocer toda mi trayectoria profesional.
 
-También puedes consultar información que comparto en [Twitter](https://twitter.com/joseramongg) y en [Facebook](https://www.facebook.com/joseramon.garcia.3382/)
+También puedes consultar información que comparto en:  
+[Twitter](https://twitter.com/joseramongg)  
+[Facebook](https://www.facebook.com/joseramon.garcia.3382/)
