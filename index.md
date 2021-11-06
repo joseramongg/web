@@ -16,10 +16,3 @@ Si lo necesitas puedes enviarme un email a:
 [Acceder](https://www.accederempresas.com/){:target="_blank"}  
 [Markdown](https://markdown.es){:target="_blank"}  
 
-
-author:  
-  name     : "José Ramón García"  
-  avatar   : "fotojr.jpeg"  
-  bio      : "Prospector Laboral en Programa Acceder"  
-  location : "Santiago de Compostela"  
-  
