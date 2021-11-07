@@ -1,4 +1,4 @@
-## Tercer artículo
+## Edición con Markdown
 *José Ramón García - 7 de noviembre de 2021*  
 
 Este es el primer artículo realizado con la aplicación "jbt" de github para realizar textos con Markdown. Básicamente se trata de un lenguaje sencillo y, desde Visual Code se puede escribir según vamos viendo el resultado final.  
