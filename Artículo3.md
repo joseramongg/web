@@ -5,7 +5,7 @@ Este es el primer artículo realizado con la aplicación "jbt" de github para re
   
   A continuación aparece un ejemplo obtenido de uno de los editores online de más prestigio (Dillinger):  
     
- # Dillinger
+# Dillinger
 ## _The Last Markdown Editor, Ever_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
