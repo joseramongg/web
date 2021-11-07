@@ -12,7 +12,7 @@ Si lo necesitas puedes enviarme un email a:
 [The Conversation](https://theconversation.com/es){:target="_blank"}  
 [Fundación Secretariado Gitano](https://www.gitanos.org/){:target="_blank"}  
 [Acceder](https://www.accederempresas.com/){:target="_blank"}  
-[Markdown](https://markdown.es/sintaxis-markdown/){:target="_blank"}  
+[Sintaxis de Markdown](https://markdown.es/sintaxis-markdown/){:target="_blank"}  
 [Editor en línea de Markdown](https://jbt.github.io/markdown-editor/){:target="_blank"} 
 
 ### Blog
