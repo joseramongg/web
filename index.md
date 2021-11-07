@@ -1,4 +1,4 @@
-### Sobre mi
+### Perfil
 
 Accede a mi perfil de [Linkedin](https://www.linkedin.com/in/joseramongg){:target="_blank"} para conocer mi trayectoria profesional. También puedes consultar información que comparto en:  
 [Twitter](https://twitter.com/joseramongg){:target="_blank"}    
