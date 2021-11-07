@@ -173,7 +173,6 @@ your preferred browser.
 
 MIT
 
-**Free Software, Hell Yeah!**
 
 
 
