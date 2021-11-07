@@ -199,7 +199,3 @@ MIT
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
    
 
-
-   
-  
-[Volver a la página de inicio.](https://joseramongg.github.io/web)  
