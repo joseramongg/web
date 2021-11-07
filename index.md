@@ -13,7 +13,8 @@ Si lo necesitas puedes enviarme un email a:
 [Fundación Secretariado Gitano](https://www.gitanos.org/){:target="_blank"}  
 [Acceder](https://www.accederempresas.com/){:target="_blank"}  
 [Sintaxis de Markdown](https://markdown.es/sintaxis-markdown/){:target="_blank"}  
-[Editor en línea de Markdown](https://jbt.github.io/markdown-editor/){:target="_blank"} 
+[Editor en línea de Markdown](https://jbt.github.io/markdown-editor/){:target="_blank"}  
+[Programming Historian en español](https://programminghistorian.org/es/){:target="_blank"} 
 
 ### Artículos
 
