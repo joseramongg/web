@@ -17,6 +17,6 @@ Si lo necesitas puedes enviarme un email a:
 
 ### Blog
 
-[Primer artículo](Artículo1)  
-[Segundo artículo](sample)  
-[Edición con Markdown](Artículo3)
+[Primer artículo](Articulo1)  
+[Segundo artículo](Articulo2)  
+[Edición con Markdown](Articulo3)
