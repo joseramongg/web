@@ -14,7 +14,7 @@ Si lo necesitas puedes enviarme un email a:
 [Acceder](https://www.accederempresas.com/){:target="_blank"}  
 [Markdown](https://markdown.es){:target="_blank"}  
 
-### Artículos
+### Blog
 
 [Primer artículo](Artículo1)  
 [Segundo artículo](sample)  
