@@ -7,7 +7,7 @@ Accede a mi perfil de [Linkedin](https://www.linkedin.com/in/joseramongg){:targe
 Si lo necesitas puedes enviarme un email a:  
 [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"}   
 
-### Enlaces a sitios favoritos
+### Webs de interés
 [Loentiendo.com](https://loentiendo.com/){:target="_blank"}  
 [The Conversation](https://theconversation.com/es){:target="_blank"}  
 [Fundación Secretariado Gitano](https://www.gitanos.org/){:target="_blank"}  
