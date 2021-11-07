@@ -175,8 +175,3 @@ MIT
 
 
 
-
-
-<footer>
-        <p><a href="https://joseramongg.github.io/web">Ir a página de Inicio</a></p>
-</footer>
