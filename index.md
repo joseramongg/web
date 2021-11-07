@@ -15,7 +15,7 @@ Si lo necesitas puedes enviarme un email a:
 [Sintaxis de Markdown](https://markdown.es/sintaxis-markdown/){:target="_blank"}  
 [Editor en línea de Markdown](https://jbt.github.io/markdown-editor/){:target="_blank"} 
 
-### Blog
+### Artículos
 
 [Primer artículo](Articulo1)  
 [Segundo artículo](Articulo2)  
