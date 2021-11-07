@@ -1,9 +1,8 @@
 ## Primer Artículo
-
-[Volver a la página principal.](https://joseramongg.github.io/web)  
+*José Ramón García - 7 de noviembre de 2021*  
 
 Primer artículo del Blog. Estamos trabajando desde Visual Code y actualizando.
   
-[Volver a la página principal.](https://joseramongg.github.io/web)  
+[Volver a la página dee inicio.](https://joseramongg.github.io/web)  
 
 
