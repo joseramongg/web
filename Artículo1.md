@@ -3,6 +3,6 @@
 
 Primer artículo del Blog. Estamos trabajando desde Visual Code y actualizando.
   
-[Volver a la página dee inicio.](https://joseramongg.github.io/web)  
+[Volver a la página de inicio.](https://joseramongg.github.io/web)  
 
 
