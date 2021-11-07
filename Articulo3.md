@@ -6,11 +6,6 @@ Este es el primer artículo realizado con la aplicación "jbt" de github para re
   A continuación aparece un ejemplo obtenido de uno de los editores online de más prestigio (Dillinger):  
     
 # Dillinger
-## _The Last Markdown Editor, Ever_
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
