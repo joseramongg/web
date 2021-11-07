@@ -1,4 +1,4 @@
-## Primer Artículo
+## Segundo Artículo
 
 [Volver a la página principal.](https://joseramongg.github.io/web)  
 
