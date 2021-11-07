@@ -19,4 +19,4 @@ Si lo necesitas puedes enviarme un email a:
 
 [Primer artículo](Artículo1)  
 [Segundo artículo](sample)  
-[Tercer artículo](Artículo3)
+[Edición con Markdown](Artículo3)
