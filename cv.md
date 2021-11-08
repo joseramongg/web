@@ -87,8 +87,16 @@ Educación y Formación
 
 2018-2021 
 :	***Grado Superior en Administración y Finanzas.***  
-*Instituto Fernando Wirtz - Xunt de Galicia*  
+*Instituto Fernando Wirtz - Xunta de Galicia*  
 	- Titulación Técnico Superior en Administración y Finanzas.  
-    - Modulos: Recursos Humanos, Gestión Jurídica, PIAC, FOL, Gestión Financiera, Contabilidad y Fiscalidad, Simulación Empresarial, Gestión Logística y comercial.  (2000 horas.)   
+    - Modulos: Recursos Humanos, Gestión Jurídica, PIAC, FOL, Gestión Financiera, Contabilidad y Fiscalidad, Simulación Empresarial, Gestión Logística y comercial. (2000 horas.)   
+	
+----
+
+2015-2016 
+:	***Certificado de Profesionalidad de Organización y Gestión de Almacenes***  
+*Consellería de Economía, Empleo e Industria.*  
+	- Certificado de Profesionalidad.  
+    - Organizar y controlar las operaciones y flujos de mercancías del almacén, de acuerdo con los procedimientos establecidos y normativa vigente, y asegurando la calidad y optimización de la red de almacenes y/o cadena logística.     
 	
 ----
