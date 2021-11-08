@@ -4,7 +4,7 @@ Accede a mi perfil de [Linkedin](https://www.linkedin.com/in/joseramongg){:targe
 [Twitter](https://twitter.com/joseramongg){:target="_blank"}    
 [Facebook](https://www.facebook.com/joseramon.garcia.3382/){:target="_blank"}  
 
-Mi [currículum](cv.md){:target="_blank"} está actualizado y, si lo necesitas, puedes enviarme un email a: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"}   
+Mi [currículum](cv.md) está actualizado y, si lo necesitas, puedes enviarme un email a: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"}   
 
 ### Webs de interés
 [Loentiendo.com](https://loentiendo.com/){:target="_blank"}  
