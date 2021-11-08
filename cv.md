@@ -27,16 +27,16 @@ Experiencia Laboral
 
 2014-2017
 :	*Docente de la Formación Profesional para el Empleo. Santiago de Compostela.*  
-	•	Docente de Certificados de Profesionalidad nivel 3.
-	•	Proyectos de Interim Manager.
-	•	Dirección y Gerencia Empresarial en empresas TIC y Logística.
+	- Docente de Certificados de Profesionalidad nivel 3.  
+    - Proyectos de Interim Manager.  
+    - Dirección y Gerencia Empresarial en empresas TIC y Logística.
      
 
 2011-2014
 :	*Director de Operaciones en Tórculo S.A. Santiago de Compostela*  
-	•	Docente de Certificados de Profesionalidad nivel 3.
-	•	Proyectos de Interim Manager.
-	•	Dirección y Gerencia Empresarial en empresas TIC y Logística.
+	- Docente de Certificados de Profesionalidad nivel 3.  
+    - Proyectos de Interim Manager.  
+    - Dirección y Gerencia Empresarial en empresas TIC y Logística.
 
 
 
