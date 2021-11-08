@@ -20,7 +20,8 @@ Experiencia Laboral
 ---------
 
 2017- Actualidad
-:	*Prospector Laboral del Programa Acceder. Santiago de Compostela*  
+:	*Prospector Laboral del Programa Acceder.  
+Santiago de Compostela*  
 	•	Prospector de Empleo e Intermediación Laboral  
 	•	Intermediación y negociación con empresas para la inserción laboral de colectivos en riesgo de exclusión social en igualdad de condiciones que el resto de la ciudadanía.   
 	
