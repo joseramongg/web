@@ -45,7 +45,7 @@ Experiencia Laboral
 :	***Jefe de Oficina Técnica. Grupo Joly.***  
 *Puerto Real - Cádiz*  
 	- Comunicación y Prensa Escrita.  
-    - Dirección de oficina técnica y Gestión de Costes.  
+    - Dirección de oficina técnica y Gestión de Costes de la empresa Ingrasa.  
     - Gestión de la calidad de los procesos productivos y responsable de Logística.  
     - Responsable de los departamentos de Riesgos Laborales, Seguridad e Higiene.  
 
