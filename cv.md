@@ -46,4 +46,4 @@ Experiencia Laboral
 
 
 ------
-> [LinkedIn](http://linkedin.com/in/joseramongg){:target="_blank"} <br />
+> [LinkedIn](http://linkedin.com/in/joseramongg){:target="_blank"} 
