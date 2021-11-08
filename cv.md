@@ -125,7 +125,7 @@ Educación y Formación
 	
 ----
 
-2008-2008 
+2010-2011 
 :	***Auditoría en Prevención de Riesgos Laborales***  
 *CC.OO Puerto Real - Cádiz*  
 	- Auditorías de prevención de riesgos laborales: análisis y consideraciones previas. (40 horas).  
