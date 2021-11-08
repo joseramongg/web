@@ -21,14 +21,27 @@ Experiencia Laboral
 
 2017- Actualidad
 :	*Prospector Laboral del Programa Acceder*  
-	Prospector de Empleo e Intermediación Laboral  
-	Intermediación y negociación con empresas para la inserción laboral de colectivos en riesgo de exclusión social en igualdad de condiciones que el resto de la ciudadanía.   
+	•	Prospector de Empleo e Intermediación Laboral  
+	•	Intermediación y negociación con empresas para la inserción laboral de colectivos en riesgo de exclusión social en igualdad de condiciones que el resto de la ciudadanía.   
 	
 
-2005-2009
-:	*Bachelor of Science (BSc), Computer Science and Information Systems*  
-	Universidad de San Carlos de Guatemala  (Guatemala City, Guatemala)  
-	Academic credits finished in record time (9 of 10 Semesters)
+2014-2017
+:	*Docente de la Formación Profesional para el Empleo. Experto en Coaching.*  
+	•	Docente de Certificados de Profesionalidad nivel 3.
+	•	Proyectos de Interim Manager.
+	•	Dirección y Gerencia Empresarial en empresas TIC y Logística.
+     
+
+
+
+
+
+
+
+
+
+
+
 
 Certifications
 --------------
