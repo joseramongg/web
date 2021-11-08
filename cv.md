@@ -79,3 +79,16 @@ Experiencia Laboral
 
 
 ----
+
+
+Educación y Formación
+---------
+----
+
+2018-2021 
+:	***Grado Superior en Administración y Finanzas.***  
+*Instituto Fernando Wirtz - Xunt de Galicia*  
+	- Titulación Técnico Superior en Administración y Finanzas.  
+    - Modulos: Recursos Humanos, Gestión Jurídica, PIAC, FOL, Gestión Financiera, Contabilidad y Fiscalidad, Simulación Empresarial, Gestión Logística y comercial.  (2000 horas.)   
+	
+----
