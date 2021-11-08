@@ -3,7 +3,7 @@
 
 ----
 
->”One of my most productive days was throwing away 1000 lines of code” - Ken Thompson
+>Prospector laboral del programa ACCEDER
 
 ----
 
@@ -16,14 +16,14 @@ Website
 : [https://jrgarcia.es)
 
 
-Education
+Experiencia Laboral
 ---------
 
-2012-2013
-:	*Master of Science (MSc), Computer Science*  
-	Focus area: Information security  
-	Universidade Federal de Santa Maria (RS, Brazil)  
-	GPA: 3.84/A-
+2017- Actualidad
+:	*Prospector Laboral del Programa Acceder*  
+	Prospector de Empleo e Intermediación Laboral  
+	Intermediación y negociación con empresas para la inserción laboral de colectivos en riesgo de   
+	exclusión social en igualdad de condiciones que el resto de la ciudadanía
 
 2005-2009
 :	*Bachelor of Science (BSc), Computer Science and Information Systems*  
