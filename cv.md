@@ -117,13 +117,6 @@ Educación y Formación
 	
 ----
 
-2008-2008 
-:	***CELGA 4***  
-*IES Plurilingüe Rosalía de Castro. Santiago de Compostela.*  
-	- Validación de nivel de competencia gallega equivalente a un Celga 4, que corresponde con el nivel C1 del Marco Europeo común de referencia para las lenguas.  
-        
-	
-----
 
 2010-2011 
 :	***Auditoría en Prevención de Riesgos Laborales***  
@@ -133,6 +126,14 @@ Educación y Formación
     - Actuaciones oficiales: auditorías de control. (70 horas).  
     - Documentación práctica (70 horas). 
     - Realizado en el marco del Subsistema de Formación Profesional para el Empleo (Convocatoria 2010), financiado por el Servicio Público de Empleo, cofinanciado por el Fondo Social Europeo y organizado por la Federación de Servicios a la Ciudadanía de CC.OO. 
+        
+	
+----
+
+2008-2008 
+:	***CELGA 4***  
+*IES Plurilingüe Rosalía de Castro. Santiago de Compostela.*  
+	- Validación de nivel de competencia gallega equivalente a un Celga 4, que corresponde con el nivel C1 del Marco Europeo común de referencia para las lenguas.  
         
 	
 ----
