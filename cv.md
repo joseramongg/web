@@ -108,3 +108,31 @@ Educación y Formación
     - Programar, impartir, tutorizar y evaluar acciones formativas del subsistema de formación profesional para el empleo, elaborando y utilizando materiales, medios y recursos didácticos, orientando sobre los itinerarios formativos y salidas profesionales que ofrece el mercado laboral en su especialidad, promoviendo de forma permanente la calidad de la formación y la actualización didáctica..     
 	
 ----
+
+2015-2015 
+:	***Experto en Coaching***  
+*Universidad de Santiago de Compostela.*  
+	- Coaching personal, coaching de equipos y coaching empresarial. Herramientas.  
+        
+	
+----
+
+2008-2008 
+:	***CELGA 4***  
+*IES Plurilingüe Rosalía de Castro. Santiago de Compostela.*  
+	- Validación de nivel de competencia gallega equivalente a un Celga 4, que corresponde con el nivel C1 del Marco Europeo común de referencia para las lenguas.  
+        
+	
+----
+
+2008-2008 
+:	***Auditoría en Prevención de Riesgos Laborales***  
+*CC.OO Puerto Real - Cádiz*  
+	- Auditorías de prevención de riesgos laborales: análisis y consideraciones previas. (40 horas).  
+    - Estudios de la auditoría del sistema de gestión de prevención de riesgos laborales (70 horas). 
+    - Actuaciones oficiales: auditorías de control. (70 horas).  
+    - Documentación práctica (70 horas). 
+    - Realizado en el marco del Subsistema de Formación Profesional para el Empleo (Convocatoria 2010), financiado por el Servicio Público de Empleo, cofinanciado por el Fondo Social Europeo y organizado por la Federación de Servicios a la Ciudadanía de CC.OO. 
+        
+	
+----
