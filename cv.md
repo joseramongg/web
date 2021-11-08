@@ -61,3 +61,21 @@ Experiencia Laboral
 
 
 ----
+
+1996-2000
+:	***Socio-Gerente Grafinoia.***  
+*Noia - A Coruña*  
+	- Funciones de producción en los departamentos de preimpresión, impresión offset e impresión digital.  
+    - Funciones de Administración y Gestión de la empresa.      
+
+
+----
+
+1994-2000
+:	***Gerente Centro de Formación Paraninfo***  
+*Noia - A Coruña*  
+	- Funciones de dirección del centro.  
+    - Impartición de la asignatura de matemáticas a niveles preunisersitarios, universitarios y oposiciones.      
+
+
+----
