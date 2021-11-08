@@ -3,7 +3,7 @@ Currículum
 
 ----
 
->Prospector laboral del programa ACCEDER
+Prospector laboral del programa ACCEDER
 
 ----
 
@@ -13,7 +13,7 @@ E-mail
 : [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"}
 
 Web
-: [https://jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"}
+: [https://www.jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"}
 
 
 Experiencia Laboral
