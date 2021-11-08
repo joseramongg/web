@@ -6,6 +6,7 @@ Accede a mi perfil de [Linkedin](https://www.linkedin.com/in/joseramongg){:targe
 
 Si lo necesitas puedes enviarme un email a:  
 [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"}   
+----
 
 ### Webs de interés
 [Loentiendo.com](https://loentiendo.com/){:target="_blank"}  
@@ -15,6 +16,7 @@ Si lo necesitas puedes enviarme un email a:
 [Pandoc](https://pandoc.org){:target="_blank"}  
 [Editor en línea de Markdown](https://jbt.github.io/markdown-editor/){:target="_blank"}  
 [Programming Historian en español](https://programminghistorian.org/es/){:target="_blank"} 
+----
 
 ### Artículos
 
