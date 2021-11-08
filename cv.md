@@ -42,7 +42,7 @@ Experiencia Laboral
 ----
 
 2004-2011
-:	***Jefe de Oficina Técnica. Grupo Joly***  
+:	***Jefe de Oficina Técnica. Grupo Joly.***  
 *Puerto Real - Cádiz*  
 	- Comunicación y Prensa Escrita.  
     - Dirección de oficina técnica y Gestión de Costes.  
@@ -52,3 +52,12 @@ Experiencia Laboral
 
 ----
 
+2004-2011
+:	***Jefe de Producción. Minerva Artes Gráficas.***  
+*Sevilla*  
+	- Jefe de producción en Industria Gráfica.  
+    - Responsable de producción de los departamentos de preimpresión, impresión offset e impresión digital.   
+    - Control de costes y presupuestos.  
+
+
+----
