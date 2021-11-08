@@ -25,6 +25,3 @@ Mi [currículum](cv.md){:target="_blank"} está actualizado y, si lo necesitas, 
 
 
 
-
-------
-> [LinkedIn](http://linkedin.com/in/joseramongg){:target="_blank"} 
