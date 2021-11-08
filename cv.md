@@ -7,7 +7,7 @@
 
 ----
 
-Personal Details
+Contacto
 ---------
 E-mail
 : jose@jrgarcia.es
