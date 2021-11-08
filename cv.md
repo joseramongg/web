@@ -10,10 +10,10 @@ Currículum
 Contacto
 ---------
 E-mail
-: jose@jrgarcia.es
+: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"}
 
 Website
-: [https://www.jrgarcia.es)
+: [https://jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"}
 
 
 Experiencia Laboral
