@@ -14,6 +14,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"}
 Web: [https://www.jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"}
 
 
+
 Experiencia Laboral
 ---------
 
@@ -33,8 +34,8 @@ Experiencia Laboral
      
 
 2011-2014
-:	*Director de Operaciones en Tórculo S.A.  
-Santiago de Compostela*  
+:	***Director de Operaciones en Tórculo S.A.***  
+*Santiago de Compostela*  
 	- Docente de Certificados de Profesionalidad nivel 3.  
     - Proyectos de Interim Manager.  
     - Dirección y Gerencia Empresarial en empresas TIC y Logística.
