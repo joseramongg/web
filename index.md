@@ -23,3 +23,11 @@ Mi [currículum](cv.md){:target="_blank"} está actualizado y, si lo necesitas, 
 [Primer artículo](cv.md)  
 [Segundo artículo](Articulo2)  
 [Edición con Markdown](Articulo3)
+
+
+
+
+
+
+------
+> [LinkedIn](http://linkedin.com/in/joseramongg){:target="_blank"} 
