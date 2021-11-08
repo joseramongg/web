@@ -12,7 +12,7 @@ Contacto
 E-mail
 : [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"}
 
-Website
+Web
 : [https://jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"}
 
 
