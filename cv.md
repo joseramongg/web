@@ -22,8 +22,8 @@ Experiencia Laboral
 2017- Actualidad
 :	*Prospector Laboral del Programa Acceder*  
 	Prospector de Empleo e Intermediación Laboral  
-	Intermediación y negociación con empresas para la inserción laboral de colectivos en riesgo de   
-	exclusión social en igualdad de condiciones que el resto de la ciudadanía
+	Intermediación y negociación con empresas para la inserción laboral de colectivos en riesgo de exclusión social en igualdad de condiciones que el resto de la ciudadanía.   
+	
 
 2005-2009
 :	*Bachelor of Science (BSc), Computer Science and Information Systems*  
