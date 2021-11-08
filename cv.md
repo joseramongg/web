@@ -72,7 +72,7 @@ Experiencia Laboral
 ----
 
 1994-2000
-:	***Gerente Centro de Formación Paraninfo***  
+:	***Gerente Centro de Formación Paraninfo.***  
 *Noia - A Coruña*  
 	- Funciones de dirección del centro.  
     - Impartición de la asignatura de matemáticas a niveles preunisersitarios, universitarios y oposiciones.      
