@@ -52,7 +52,7 @@ Experiencia Laboral
 
 ----
 
-2004-2011
+2000-2004
 :	***Jefe de Producción. Minerva Artes Gráficas.***  
 *Sevilla*  
 	- Jefe de producción en Industria Gráfica.  
