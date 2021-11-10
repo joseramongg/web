@@ -1,6 +1,7 @@
-Currículum
-===========================================
-
+---
+layout: page
+title: Currículum
+---
 ----
 
 Prospector laboral del programa ACCEDER
