@@ -1,22 +1,21 @@
 # Setup
-title:               José Ramón García
-tagline:             'Prospector Laboral'
-description:         'Conectando ofertas y demandas de empleo'
-url:                 http://jrgarcia.es
+title:               Olivier von Dach
+tagline:             'Software Craftsman'
+description:         'Software Craftsmanship is a durable investment that makes possible the reconciliation of software quality, developer experience, low maintenance costs, and reactivity to the market.'
+url:                 https://vondacho.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              José Ramón García
-  url:               https://twitter.com/joseramongg
-  email:             jose@jrgarcia.es
+  name:              Olivier von Dach
+  url:               
+  email:             olivier.vondach@gmail.com
 
 # Gems
 plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
-
+version:             0.1.0

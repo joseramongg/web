@@ -5,11 +5,11 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
-    <img src="fotojrderecha.jpg">
+    <img src="/public/images/IMG_20201228_140658_w250_bw.jpg">
   </div>
 
   <div class="sidebar-item">
-    <p class="citation"><i>{{ site.description }}</i></p>
+      <p class="citation"><i>{{ site.description }}</i></p>
   </div>
 
   <nav class="sidebar-nav">
@@ -29,13 +29,11 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+    <a class="sidebar-nav-item{% if page.title == 'Posts' %} active{% endif %}" href="{{ '/posts' | absolute_url }}">Posts</a>
   </nav>
 
   <div class="sidebar-item">
-    <a href="https://linkedin.com/in/joseramongg" target="_blank"><i class="fa fa-linkedin"></i></a>
-    <a href="https://jrgarcia.es" target="_blank"><i class="fa fa-github"></i></a>
+    <a href="https://ch.linkedin.com/in/vondacho" target="_blank"><i class="fa fa-linkedin"></i></a>
+    <a href="https://github.com/vondacho" target="_blank"><i class="fa fa-github"></i></a>
   </div>
-  </div>
+</div>
