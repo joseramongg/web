@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Perfil
 ---
 
 Accede a mi perfil de [Linkedin](https://www.linkedin.com/in/joseramongg){:target="_blank"} para conocer mi trayectoria profesional. También puedes consultar información que comparto en:  
