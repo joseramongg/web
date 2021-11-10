@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Perfil
+title: "Primer Artículo"
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: CATEGORY-1 CATEGORY-2
 ---
 
 ## Primer Artículo
