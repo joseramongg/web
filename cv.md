@@ -2,12 +2,6 @@
 layout: page
 title: Currículum
 ---
-----
-
-Prospector laboral del programa ACCEDER
-
-----
-
 Contacto
 ---------
 E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [https://www.jrgarcia.es](https://www.jrgarcia.es){:target="_blank"}  
