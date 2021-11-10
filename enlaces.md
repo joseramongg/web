@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: Enlaces
 ---
 
 [Loentiendo.com](https://loentiendo.com/){:target="_blank"}  
