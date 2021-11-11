@@ -1,5 +1,7 @@
-Currículum
-===========================================
+---
+layout: page
+title: Literature
+---
 
 ----
 
