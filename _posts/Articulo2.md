@@ -1,8 +1,3 @@
----
-layout: post
-title: Artículo 2
----
-
 ## Segundo Artículo
 *José Ramón García - 7 de noviembre de 2021*  
 

@@ -1,8 +1,3 @@
----
-layout: post
-title: Dillinger
----
-
 ## Edición con Markdown
 *José Ramón García - 7 de noviembre de 2021*  
 
