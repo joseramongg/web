@@ -5,5 +5,6 @@ title: Artículos
 
 ----
 
-*Primer artículo*
+*Primer artículo
+
 Esto es un artículo de prueba.
