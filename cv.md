@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Literature
+title: Currículum
 ---
 
 ----
