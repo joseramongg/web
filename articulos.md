@@ -5,6 +5,5 @@ title: Artículos
 
 ----
 
-[Artículo 1](Articulo1.md)  
-[Artículo 2](Articulo2.md)  
-[Artículo 3](Articulo3.md)  
+<h2>Primer artículo<h2>
+Esto es un artículo de prueba.
