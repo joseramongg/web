@@ -1,3 +1,8 @@
+---
+layout: post
+title: Introducing Lanyon
+---
+
 ## Primer Artículo
 *José Ramón García - 7 de noviembre de 2021*  
 
