@@ -5,6 +5,6 @@ title: Artículos
 
 ----
 
-# Primer artículo
+## Primer artículo
 
 Esto es un primer artículo de prueba realizado con markdown.
