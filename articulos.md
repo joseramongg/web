@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Artículos    
+layout: Post
+title: Posts   
 ---
 
 ----
