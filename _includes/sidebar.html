@@ -26,8 +26,12 @@
       {% endif %}
     {% endfor %}
 
-    
+    <a class="sidebar-nav-item{% if page.title == 'Posts' %} active{% endif %}"
+      href="{{ '/posts' | absolute_url }}">Posts</a>
     </nav>
     
-    
+    <div class="sidebar-item">
+      <a href="https://linkedin.com/in/joseramongg" target="_blank"><i class="fa fa-linkedin"></i></a>
+      <a href="https://github.com/joseramongg" target="_blank"><i class="fa fa-github"></i></a>
+    </div>
     </div>
