@@ -160,8 +160,8 @@ h2 {
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #385eaf;
-  -webkit-transition: all .3s ease-in-out;
-          transition: all .3s ease-in-out;
+  -webkit-transition: all .2s ease-in-out;
+          transition: all .2s ease-in-out;
 }
 @media (min-width: 30em) {
   .sidebar {
@@ -198,7 +198,7 @@ h2 {
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: none;
-  background-color: rgba(255,255,255,.1);
+  background-color: rgba(45, 120, 190, 0.1);
   border-color: transparent;
 }
 
@@ -532,16 +532,16 @@ a.pagination-item:hover {
   color: #aa759f;
 }
 
-/* Brown */
+/* Azul */
 .theme-base-0f .sidebar,
 .theme-base-0f .sidebar-toggle:active,
 .theme-base-0f #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #8f5536;
+  background-color: #365a8f;
 }
 .theme-base-0f .container a,
 .theme-base-0f .sidebar-toggle,
 .theme-base-0f .related-posts li a:hover {
-  color: #8f5536;
+  color: #365a8f;
 }
 
 
