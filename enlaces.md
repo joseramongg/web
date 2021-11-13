@@ -3,13 +3,11 @@ layout: page
 title: Webs de interés 
 ---
 
-----
-
-----
+<hr size="4px" color="black" />
 
 [Mi Blog](https://joseramongarcia.wordpress.com){:target="_blank"}  
 
-----
+<hr size="4px" color="black" />
 
 
 [Loentiendo.com](https://loentiendo.com/){:target="_blank"}  
