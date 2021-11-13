@@ -3,7 +3,7 @@ layout: page
 title: Currículum
 ---
 
-<hr size="5px" color="blue" />
+<hr size="5px" color="#268BD4" />
 
 ## Contacto
 
