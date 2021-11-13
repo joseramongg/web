@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+subtitle: Web de interés
 ---
 
 <hr size="5px" color="#268BD4" />
