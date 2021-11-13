@@ -158,8 +158,8 @@ h2 {
   overflow-y: auto;
   font-family: 'Raleway', sans-serif, Helvetica;
   font-size: .875rem; /* 15px */
-  color: #515151;
-  background-color: #FFF1E5;
+  color: rgba(255,255,255,.6);
+  background-color: #515151;
   -webkit-transition: all .1s ease-in-out;
           transition: all .1s ease-in-out;
 }
