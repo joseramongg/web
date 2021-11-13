@@ -159,7 +159,7 @@ h2 {
   font-family: 'Raleway', sans-serif, Helvetica;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
-  background-color: #002255;
+  background-color: #315B97;
   -webkit-transition: all .1s ease-in-out;
           transition: all .1s ease-in-out;
 }
@@ -230,7 +230,7 @@ a.sidebar-nav-item:focus {
   align-items: center;
   padding: .25rem .75rem;
   color: rgba(255,255,255,.6);
-  background-color: #002255;
+  background-color: #315B97;
   border-radius: .25rem;
   cursor: pointer;
 }
@@ -536,12 +536,12 @@ a.pagination-item:hover {
 .theme-base-0f .sidebar,
 .theme-base-0f .sidebar-toggle:active,
 .theme-base-0f #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #002255;
+  background-color: #315B97;
 }
 .theme-base-0f .container a,
 .theme-base-0f .sidebar-toggle,
 .theme-base-0f .related-posts li a:hover {
-  color: #002255;
+  color: #315B97;
 }
 
 
