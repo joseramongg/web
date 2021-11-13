@@ -4,13 +4,16 @@
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
- 
   <div class="sidebar-item">
-    <p class="citation"><i>{{ site.description }}</i></p>
+    <img src="/public/images/IMG_20201228_140658_w250_bw.jpg">
+  </div>
+
+  <div class="sidebar-item">
+      <p class="citation"><i>{{ site.description }}</i></p>
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.title == 'Inicio' %} active{% endif %}" href="{{ '/' | absolute_url }}">Inicio</a>
+    <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
@@ -26,12 +29,11 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item{% if page.title == 'Post' %} active{% endif %}"
-      href="{{ '/post' | absolute_url }}">Post</a>
-    </nav>
-    
-    <div class="sidebar-item">
-      <a href="https://linkedin.com/in/joseramongg" target="_blank"><i class="fa fa-linkedin"></i></a>
-      <a href="https://github.com/joseramongg" target="_blank"><i class="fa fa-github"></i></a>
-    </div>
-    </div>
+    <a class="sidebar-nav-item{% if page.title == 'Posts' %} active{% endif %}" href="{{ '/posts' | absolute_url }}">Posts</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <a href="https://ch.linkedin.com/in/vondacho" target="_blank"><i class="fa fa-linkedin"></i></a>
+    <a href="https://github.com/vondacho" target="_blank"><i class="fa fa-github"></i></a>
+  </div>
+</div>
