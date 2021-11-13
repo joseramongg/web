@@ -7,7 +7,7 @@ title: Currículum
 
 ## Contacto
 
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+<p><h2><span style="color:#268BD4">Contacto</span></h2></p>
 
 E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [https://www.jrgarcia.es](https://www.jrgarcia.es){:target="_blank"}  
 
