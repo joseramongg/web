@@ -7,7 +7,7 @@ title: Webs de interés
 
     [Mi Blog](https://joseramongarcia.wordpress.com){:target="_blank"}  
 
-<hr size="4px" color="black" />
+<hr size="5px" color="black" />
 
 [Loentiendo.com](https://loentiendo.com/){:target="_blank"}  
 [The Conversation](https://theconversation.com/es){:target="_blank"}  
