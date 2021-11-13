@@ -9,8 +9,7 @@ title: Webs de interés
 
 <hr size="4px" color="black" />
 
-
-    [Loentiendo.com](https://loentiendo.com/){:target="_blank"}  
+[Loentiendo.com](https://loentiendo.com/){:target="_blank"}  
 [The Conversation](https://theconversation.com/es){:target="_blank"}  
 [Fundación Secretariado Gitano](https://www.gitanos.org/){:target="_blank"}  
 [Acceder](https://www.accederempresas.com/){:target="_blank"}  
