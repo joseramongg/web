@@ -9,14 +9,14 @@ title: Posts
   {{ content }}
 </div>
 
-{% if site.related_posts.size >= 1 %}
+{% if site.related_post.size >= 1 %}
 <div class="related">
-  <h2>Related posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
+  <h2>Related post</h2>
+  <ul class="related-post">
+    {% for post in site.related_post limit:3 %}
       <li>
         <h3>
-          <a href="{{ site.baseurl }}{{ posts.url }}">
+          <a href="{{ site.baseurl }}{{ post.url }}">
             {{ post.title }}
             <small>{{ post.date | date_to_string }}</small>
           </a>
