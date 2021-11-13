@@ -3,12 +3,12 @@ layout: page
 title: Currículum
 ---
 
-<hr size="5px" color="black" />
+<hr size="5px" color="blue" />
 
 ## Contacto
 
 E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [https://www.jrgarcia.es](https://www.jrgarcia.es){:target="_blank"}  
-<hr size="5px" color="black" />
+<hr size="5px" color="bue" />
 
 **Experiencia Laboral
 
