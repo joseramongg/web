@@ -7,8 +7,6 @@ title: Currículum
 
 Prospector laboral del programa ACCEDER
 
-----
-
 <hr size="4px" color="black" />
 
 Contacto
@@ -17,7 +15,8 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 
 Experiencia Laboral
 ---------
-----
+
+<hr size="4px" color="black" />
 
 2017- Actualidad
 :	***Prospector Laboral del Programa Acceder.***  
@@ -25,7 +24,7 @@ Experiencia Laboral
 	- Prospector de Empleo e Intermediación Laboral.  
     - Intermediación y negociación con empresas para la inserción laboral de colectivos en riesgo de exclusión social en igualdad de condiciones que el resto de la ciudadanía.   
 	
-----
+<hr size="4px" color="black" />
 
 2014-2017
 :	***Docente de la Formación Profesional para el Empleo.***  
@@ -34,7 +33,7 @@ Experiencia Laboral
     - Proyectos de Interim Manager.  
     - Dirección y Gerencia Empresarial en empresas TIC y Logística.
      
-----
+<hr size="4px" color="black" />
 
 2011-2014
 :	***Director de Operaciones en Tórculo S.A.***  
@@ -43,7 +42,7 @@ Experiencia Laboral
     - Proyectos de Interim Manager.  
     - Dirección y Gerencia Empresarial en empresas TIC y Logística.
 
-----
+<hr size="4px" color="black" />
 
 2004-2011
 :	***Jefe de Oficina Técnica. Grupo Joly.***  
@@ -54,7 +53,7 @@ Experiencia Laboral
     - Responsable de los departamentos de Riesgos Laborales, Seguridad e Higiene.  
 
 
-----
+<hr size="4px" color="black" />
 
 2000-2004
 :	***Jefe de Producción. Minerva Artes Gráficas.***  
@@ -64,7 +63,7 @@ Experiencia Laboral
     - Control de costes y presupuestos.  
 
 
-----
+<hr size="4px" color="black" />
 
 1996-2000
 :	***Socio-Gerente Grafinoia.***  
@@ -82,12 +81,13 @@ Experiencia Laboral
     - Impartición de la asignatura de matemáticas a niveles preunisersitarios, universitarios y oposiciones.      
 
 
-----
+<hr size="4px" color="black" />
 
 
 Educación y Formación
 ---------
-----
+
+<hr size="4px" color="black" />
 
 2018-2021 
 :	***Grado Superior en Administración y Finanzas.***  
@@ -95,7 +95,7 @@ Educación y Formación
 	- Titulación: Técnico Superior en Administración y Finanzas.  
     - Modulos: Recursos Humanos, Gestión Jurídica, PIAC, FOL, Gestión Financiera, Contabilidad y Fiscalidad, Simulación Empresarial, Gestión Logística y comercial. (2000 horas.)   
 	
-----
+<hr size="4px" color="black" />
 
 2015-2016 
 :	***Certificado de Profesionalidad de Organización y Gestión de Almacenes***  
@@ -103,7 +103,7 @@ Educación y Formación
 	- Certificado de Profesionalidad.  
     - Organizar y controlar las operaciones y flujos de mercancías del almacén, de acuerdo con los procedimientos establecidos y normativa vigente, y asegurando la calidad y optimización de la red de almacenes y/o cadena logística.     
 	
-----
+<hr size="4px" color="black" />
 
 2015-2015 
 :	***Certificado de Profesionalidad en Docencia de la Formación Profesional para el Empleo***  
@@ -111,7 +111,7 @@ Educación y Formación
 	- Certificado de Profesionalidad.  
     - Programar, impartir, tutorizar y evaluar acciones formativas del subsistema de formación profesional para el empleo, elaborando y utilizando materiales, medios y recursos didácticos, orientando sobre los itinerarios formativos y salidas profesionales que ofrece el mercado laboral en su especialidad, promoviendo de forma permanente la calidad de la formación y la actualización didáctica..     
 	
-----
+<hr size="4px" color="black" />
 
 2015-2015 
 :	***Experto en Coaching***  
@@ -119,7 +119,7 @@ Educación y Formación
 	- Coaching personal, coaching de equipos y coaching empresarial. Herramientas.  
         
 	
-----
+<hr size="4px" color="black" />
 
 
 2010-2011 
@@ -132,7 +132,7 @@ Educación y Formación
     - Realizado en el marco del Subsistema de Formación Profesional para el Empleo (Convocatoria 2010), financiado por el Servicio Público de Empleo, cofinanciado por el Fondo Social Europeo y organizado por la Federación de Servicios a la Ciudadanía de CC.OO. 
         
 	
-----
+<hr size="4px" color="black" />
 
 2008-2008 
 :	***CELGA 4***  
@@ -140,4 +140,4 @@ Educación y Formación
 	- Validación de nivel de competencia gallega equivalente a un Celga 4, que corresponde con el nivel C1 del Marco Europeo común de referencia para las lenguas.  
         
 	
-----
+<hr size="4px" color="black" />
