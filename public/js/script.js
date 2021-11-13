@@ -10,6 +10,7 @@
        sidebar.contains(target) ||
        (target === checkbox || target === toggle)) return;
 
-    checkbox.checked = true;
+    sidebar.contains(target) ||
+      (target === checkbox || target === toggle)) return;
   }, false);
 })(document);
