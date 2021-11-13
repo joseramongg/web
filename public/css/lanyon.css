@@ -160,8 +160,8 @@ h2 {
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #002255;
-  -webkit-transition: all .2s ease-in-out;
-          transition: all .2s ease-in-out;
+  -webkit-transition: all .1s ease-in-out;
+          transition: all .1s ease-in-out;
 }
 @media (min-width: 30em) {
   .sidebar {
