@@ -10,7 +10,7 @@ title: Currículum
 E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [https://www.jrgarcia.es](https://www.jrgarcia.es){:target="_blank"}  
 <hr size="5px" color="bue" />
 
-**Experiencia Laboral
+## Experiencia Laboral
 
 <hr size="5px" color="black" />
 
