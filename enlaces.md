@@ -6,7 +6,9 @@ title: Webs de interés
 ----
 
 ----
+
 [Mi Blog](https://joseramongarcia.wordpress.com){:target="_blank"}  
+
 ----
 
 
