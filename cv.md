@@ -8,7 +8,7 @@ title: Currículum
 ## Contacto
 
 <body>
-  <h2><p style="color:#FF0000";>Contacto text</p>
+  <h2><p style="color:#FF0000";>Contacto</p></h2>
 </body>
 
 E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [https://www.jrgarcia.es](https://www.jrgarcia.es){:target="_blank"}  
