@@ -3,17 +3,14 @@ layout: page
 title: Currículum
 ---
 
-----
-
-Prospector laboral del programa ACCEDER
-
 <hr size="5px" color="black" />
 
-Contacto
+**Contacto
 
 E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [https://www.jrgarcia.es](https://www.jrgarcia.es){:target="_blank"}  
 <hr size="5px" color="black" />
-Experiencia Laboral
+
+**Experiencia Laboral
 
 <hr size="5px" color="black" />
 
@@ -83,9 +80,9 @@ Experiencia Laboral
 <hr size="5px" color="black" />
 
 
-Educación y Formación
-<hr size="5px" color="black" />
+**Educación y Formación
 
+<hr size="5px" color="black" />
 
 2018-2021 
 :	***Grado Superior en Administración y Finanzas.***  
