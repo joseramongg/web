@@ -5,7 +5,11 @@ title: Webs de interés
 
 ----
 
+----
 [Mi Blog](https://joseramongarcia.wordpress.com){:target="_blank"}  
+----
+
+
 [Loentiendo.com](https://loentiendo.com/){:target="_blank"}  
 [The Conversation](https://theconversation.com/es){:target="_blank"}  
 [Fundación Secretariado Gitano](https://www.gitanos.org/){:target="_blank"}  
