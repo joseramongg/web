@@ -9,6 +9,8 @@ Prospector laboral del programa ACCEDER
 
 ----
 
+<hr size="2px" color="black" />
+
 Contacto
 ---------
 E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [https://www.jrgarcia.es](https://www.jrgarcia.es){:target="_blank"}  
