@@ -192,7 +192,7 @@ h2 {
 .sidebar-nav-item {
   display: block;
   padding: .5rem 1rem;
-  border-top: 1px solid rgba(255,255,255,.1);
+  border-top: 1px solid #fff;
 }
 .sidebar-nav-item.active,
 a.sidebar-nav-item:hover,
