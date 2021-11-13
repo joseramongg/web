@@ -230,7 +230,7 @@ a.sidebar-nav-item:focus {
   align-items: center;
   padding: .25rem .75rem;
   color: rgba(255,255,255,.6);
-  background-color: #315B97;
+  background-color: #515151;
   border-radius: .25rem;
   cursor: pointer;
 }
