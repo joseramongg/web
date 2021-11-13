@@ -39,7 +39,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
     - Proyectos de Interim Manager.  
     - Dirección y Gerencia Empresarial en empresas TIC y Logística.
 
-<hr size="5px" color="black" />
+<hr size="5px" color="#268BD4" />
 
 2004-2011
 :	***Jefe de Oficina Técnica. Grupo Joly.***  
