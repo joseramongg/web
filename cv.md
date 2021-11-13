@@ -9,7 +9,7 @@ Prospector laboral del programa ACCEDER
 
 ----
 
-<hr size="2px" color="black" />
+<hr size="10px" color="black" />
 
 Contacto
 ---------
