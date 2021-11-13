@@ -54,7 +54,7 @@ h1, h3, h4, h5, h6 {
 
 h2 {
   font-family: 'Raleway', sans-serif, Helvetica;
-  font-weight: bold;
+  font-weight: normal ;
   color: #313131;
   letter-spacing: -.025rem;
 }
