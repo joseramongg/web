@@ -5,15 +5,13 @@ title: Currículum
 
 <hr size="5px" color="#268BD4" />
 
-## Contacto
-
 <p><h2><span style="color:#268BD4">Contacto</span></h2></p>
 
 E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [https://www.jrgarcia.es](https://www.jrgarcia.es){:target="_blank"}  
 
 <hr size="5px" color="#268BD4" />
 
-## Experiencia Laboral
+<p><h2><span style="color:#268BD4">Experiencia Laboral</span></h2></p>
 
 <hr size="5px" color="#268BD4" />
 
@@ -83,7 +81,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 <hr size="5px" color="#268BD4" />
 
 
-## Educación y Formación
+<p><h2><span style="color:#268BD4">Educación y Formación</span></h2></p>
 
 <hr size="5px" color="#268BD4" />
 
