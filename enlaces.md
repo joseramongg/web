@@ -4,7 +4,7 @@ title: Webs de interés
 ---
 
 <hr size="5px" color="black" />
-    [Mi Blog](https://joseramongarcia.wordpress.com){:target="_blank"}  
+[Mi Blog](https://joseramongarcia.wordpress.com){:target="_blank"}  
 <hr size="5px" color="black" />
 
 [Loentiendo.com](https://loentiendo.com/){:target="_blank"}  
