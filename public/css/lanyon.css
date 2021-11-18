@@ -229,7 +229,7 @@ a.sidebar-nav-item:focus {
   display: flex;
   align-items: center;
   padding: .25rem .75rem;
-  color: #fff1e5;
+  color: #fff;
   background-color: #555;
   border-radius: .25rem;
   cursor: pointer;
@@ -246,7 +246,7 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle:active,
 #sidebar-checkbox:focus ~ .sidebar-toggle,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  color: #fff1e5;
+  color: #fff;
   background-color: #555;
 }
 
