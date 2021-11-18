@@ -154,7 +154,7 @@ h2 {
   bottom: 0;
   left: -14rem;
   width: 14rem;
-  visibility: hidden;
+  visibility: auto;
   overflow-y: auto;
   font-family: 'Raleway', sans-serif, Helvetica;
   font-size: .875rem; /* 15px */
