@@ -154,7 +154,7 @@ h2 {
   bottom: 0;
   left: -14rem;
   width: 14rem;
-  visibility: auto;
+  visibility: hidden;
   overflow-y: auto;
   font-family: 'Raleway', sans-serif, Helvetica;
   font-size: .875rem; /* 15px */
@@ -198,7 +198,7 @@ h2 {
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: none;
-  background-color: #505050;
+  background-color: #fff;
   border-color: transparent;
 }
 
