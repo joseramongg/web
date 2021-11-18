@@ -187,7 +187,7 @@ h2 {
 
 /* Sidebar nav */
 .sidebar-nav {
-  border-bottom: 1px solid #505050;
+  border-bottom: 1px solid #777777;
 }
 .sidebar-nav-item {
   display: block;
@@ -247,7 +247,7 @@ a.sidebar-nav-item:focus {
 #sidebar-checkbox:focus ~ .sidebar-toggle,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
   color: #fff;
-  background-color: rgb(148, 148, 148);
+  background-color: #555;
 }
 
 .sidebar-toggle:active:before,
