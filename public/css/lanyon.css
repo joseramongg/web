@@ -198,7 +198,7 @@ h2 {
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: none;
-  background-color: #fff;
+  background-color: rgba(255, 255, 255, 0.479);
   border-color: transparent;
 }
 
