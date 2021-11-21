@@ -10,7 +10,7 @@ title: Docencia
 E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [https://www.jrgarcia.es](https://www.jrgarcia.es){:target="_blank"}  
 
 
-<hr size="5px" color="#268BD4" />
+<hr size="5px" color="#268bd2" />
 <h4><b><span style="color: #bc595c;">(ADGG0208)</span> ACTIVIDADES ADMINISTRATIVAS EN LA RELACIÓN CON EL CLIENTE (RD 1210/2009, de 17 de julio, modificado por el RD 645/2011, de 9 de mayo) </b></h4>
 <h4><b>MF0975_2: Técnicas de recepción y comunicación. </b></h4>
 <h4><b>MF0976_2: Operaciones administrativas comerciales </b></h4>
@@ -30,7 +30,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
  	<li>UF0323: Aplicaciones Informáticas para Presentaciones: Gráficas de Información</li>
 </ul>
 
-<hr size="5px" color="#268BD4" />
+<hr size="5px" color="#268bd2" />
 
 <h4><b><span style="color: #bc595c;">(ADGG0408)</span> OPERACIONES AUXILIARES DE SERVICIOS ADMINISTRATIVOS Y GENERALES (RD 645/2011 de 9 de mayo) </b></h4>
 <h4><b>MF0969_1 Técnicas administrativas básicas de oficina </b></h4>
@@ -50,7 +50,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
  	<li>UF0514: Gestión auxiliar de reproducción en soporte convencional o informático</li>
 </ul>
 
-<hr size="5px" color="#268BD4" />
+<hr size="5px" color="#268bd2" />
 <h4><b><span style="color: #bc595c;">(ADGD0308)</span> ACTIVIDADES DE GESTION ADMINISTRATIVA (RD 645/2011, de 9 de mayo) </b></h4>
 <h4><b>MF0976_2:Operaciones administrativas comerciales </b></h4>
 <ul>
@@ -69,7 +69,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
  	<li>UF0323: Aplicaciones informáticas para presentaciones gráficas de información.</li>
 </ul>
 
-<hr size="5px" color="#268BD4" />
+<hr size="5px" color="#268bd2" />
 <h4><b><span style="color: #bc595c;">(COMT0110)</span> ATENCIÓN AL CLIENTE, CONSUMIDOR O USUARIO (RD 1522/2011, de 31 de octubre) </b></h4>
 <h4><b>MF0241_2: Información y atención al cliente /consumidor / usuario</b></h4>
 <ul>
