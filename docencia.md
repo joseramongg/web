@@ -33,7 +33,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 <hr />
 <hr size="5px" color="#268BD4" />
 
-<h3><b><span style="color: #bc595c;">(ADGG0408)</span> OPERACIONES AUXILIARES DE SERVICIOS ADMINISTRATIVOS Y GENERALES (RD 645/2011 de 9 de mayo) </b></h3>
+<h4><b><span style="color: #bc595c;">(ADGG0408)</span> OPERACIONES AUXILIARES DE SERVICIOS ADMINISTRATIVOS Y GENERALES (RD 645/2011 de 9 de mayo) </b></h4>
 <h4><b>MF0969_1 Técnicas administrativas básicas de oficina </b></h4>
 <ul>
  	<li>UF0517: Organización empresarial y de recursos humanos</li>
@@ -53,7 +53,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 
 <hr />
 <hr size="5px" color="#268BD4" />
-<h3><b><span style="color: #bc595c;">(ADGD0308)</span> ACTIVIDADES DE GESTION ADMINISTRATIVA (RD 645/2011, de 9 de mayo) </b></h3>
+<h4><b><span style="color: #bc595c;">(ADGD0308)</span> ACTIVIDADES DE GESTION ADMINISTRATIVA (RD 645/2011, de 9 de mayo) </b></h4>
 <h4><b>MF0976_2:Operaciones administrativas comerciales </b></h4>
 <ul>
  	<li>UF0349: Atención al cliente en el proceso comercial.</li>
@@ -73,7 +73,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 
 <hr />
 <hr size="5px" color="#268BD4" />
-<h3><b><span style="color: #bc595c;">(COMT0110)</span> ATENCIÓN AL CLIENTE, CONSUMIDOR O USUARIO (RD 1522/2011, de 31 de octubre) </b></h3>
+<h4><b><span style="color: #bc595c;">(COMT0110)</span> ATENCIÓN AL CLIENTE, CONSUMIDOR O USUARIO (RD 1522/2011, de 31 de octubre) </b></h4>
 <h4><b>MF0241_2: Información y atención al cliente /consumidor / usuario</b></h4>
 <ul>
  	<li>UF0036: Gestión de la atención al cliente / consumidor</li>
@@ -82,7 +82,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 
 <hr />
 <hr size="5px" color="#268BD4" />
-<h3><b><span style="color: #bc595c;">(COMT0411)</span> GESTIÓN COMERCIAL DE VENTAS (RD 1694/2011, de 18 de noviembre) </b></h3>
+<h4><b><span style="color: #bc595c;">(COMT0411)</span> GESTIÓN COMERCIAL DE VENTAS (RD 1694/2011, de 18 de noviembre) </b></h4>
 <h4><b>MF0239_2 Operaciones de venta </b></h4>
 <ul>
  	<li>UF0030: Organización de procesos de venta.</li>
@@ -92,7 +92,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 
 <hr />
 <hr size="5px" color="#268BD4" />
-<h3><b><span style="color: #bc595c;">(COML0309)</span> ORGANIZACIÓN Y GESTIÓN DE ALMACENES (RD642/2011 de 9 de mayo) </b></h3>
+<h4><b><span style="color: #bc595c;">(COML0309)</span> ORGANIZACIÓN Y GESTIÓN DE ALMACENES (RD642/2011 de 9 de mayo) </b></h4>
 <h4><b>MF1014_3: Organización de almacenes </b></h4>
 <ul>
  	<li>UF0926: Diseño y organización del almacén
@@ -106,14 +106,14 @@ UF0927: Gestión del equipo de trabajo del almacén</li>
 
 <hr />
 <hr size="5px" color="#268BD4" />
-<h3><b><span style="color: #bc595c;">(COML0209)</span> ORGANIZACIÓN DEL TRANSPORTE Y LA DISTRIBUCIÓN (RD 642/2011 de 9 de mayo)<b></b></b></h3>
+<h4><b><span style="color: #bc595c;">(COML0209)</span> ORGANIZACIÓN DEL TRANSPORTE Y LA DISTRIBUCIÓN (RD 642/2011 de 9 de mayo)<b></b></b></h4>
 <h4><b><strong>MF1012_3: Distribución capilar</strong><b></b></b></h4>
 <h4><b><strong>MF1013_3: Transporte de larga distancia</strong><b></b></b></h4>
 <h4><b><strong>MF1005_3: Optimización de la cadena logística</strong><b></b></b></h4>
 
 <hr />
 <hr size="5px" color="#268BD4" />
-<h3><b><span style="color: #bc595c;">(COML0210)</span> GESTIÓN Y CONTROL DEL APROVISIONAMIENTO (RD 1522/2011, de 31 de octubre)<b></b></b></h3>
+<h4><b><span style="color: #bc595c;">(COML0210)</span> GESTIÓN Y CONTROL DEL APROVISIONAMIENTO (RD 1522/2011, de 31 de octubre)<b></b></b></h4>
 <div class="page" title="Page 1">
 <div class="section">
 <div class="layoutArea">
