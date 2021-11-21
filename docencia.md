@@ -69,7 +69,6 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
  	<li>UF0323: Aplicaciones informáticas para presentaciones gráficas de información.</li>
 </ul>
 
-<hr />
 <hr size="5px" color="#268BD4" />
 <h4><b><span style="color: #bc595c;">(COMT0110)</span> ATENCIÓN AL CLIENTE, CONSUMIDOR O USUARIO (RD 1522/2011, de 31 de octubre) </b></h4>
 <h4><b>MF0241_2: Información y atención al cliente /consumidor / usuario</b></h4>
@@ -78,7 +77,6 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
  	<li>UF0037: Técnicas de información y atención al cliente / consumidor<b> </b></li>
 </ul>
 
-<hr />
 <hr size="5px" color="#268BD4" />
 <h4><b><span style="color: #bc595c;">(COMT0411)</span> GESTIÓN COMERCIAL DE VENTAS (RD 1694/2011, de 18 de noviembre) </b></h4>
 <h4><b>MF0239_2 Operaciones de venta </b></h4>
