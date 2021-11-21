@@ -25,7 +25,6 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
  	
 </ul>
 <h4><b>MF1005_3: Optimización de la cadena logística. </b></h4>
-</ul>
 
 <hr size="5px" color="#268BD4" />
 <h4><b><span style="color: #268BD4;">(ADGG0208)</span> ACTIVIDADES ADMINISTRATIVAS EN LA RELACIÓN CON EL CLIENTE (RD 1210/2009, de 17 de julio, modificado por el RD 645/2011, de 9 de mayo) </b></h4>
