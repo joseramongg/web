@@ -1,7 +1,7 @@
 # Setup
 title:               José Ramón García
 tagline:             'Prospector Laboral'
-description:         'Soy prospector laboral del Programa Acceder de la Fundación Secretariado Gitano. Acceder es un servicio público de intermediación laboral dirigido a empresas y desempleados/as, con la finalidad de poner en contacto ofertas y demandas de empleo.'
+description:         'Prospector Laboral del Programa Acceder. Es un servicio público de intermediación laboral dirigido a empresas y desempleados/as, con la finalidad de poner en contacto ofertas y demandas de empleo.'
 url:                 https://jrgarcia.es/
 baseurl:             ''
 paginate:            5
