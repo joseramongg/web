@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Formación
+title: 
 ---
 
 <hr size="5px" color="#268BD4" />
