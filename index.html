@@ -3,17 +3,35 @@ layout: default
 title: Inicio
 ---
 
-<hr size="5px" color="#268BD4" />
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url | absolute_url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
-Accede a mi perfil de [Linkedin](https://www.linkedin.com/in/joseramongg){:target="_blank"} para conocer mi trayectoria
-profesional. También puedes consultar información que comparto en:
-[Twitter](https://twitter.com/joseramongg){:target="_blank"} y
-[Facebook](https://www.facebook.com/joseramon.garcia.3382/){:target="_blank"}
+    <span class="post-date">{{ post.date | date_to_string }}</span>
 
-Mi [currículum](cv.md) está actualizado y también el apartado de Docencia donde especifico los módulos de [Certificados
-de Profesionalidad](docencia.md) para los que estoy acreditado.
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
 
-Si necesitas contactar conmigo, puedes enviarme un email a:
-[jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"}
-
-<hr size="5px" color="#268BD4" />
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
