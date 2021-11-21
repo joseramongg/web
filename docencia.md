@@ -104,23 +104,23 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 
 <hr size="5px" color="#268BD4" />
 <h4><b><span style="color: #268BD4;">(COML0209)</span> ORGANIZACIÓN DEL TRANSPORTE Y LA DISTRIBUCIÓN (RD 642/2011 de 9 de mayo)<b></b></b></h4>
-<h4><i><b><strong>MF1012_3: Distribución capilar</strong><b></b></b></i></h4>
-<h4><b><i><strong>MF1013_3: Transporte de larga distancia</strong><b></b></b></i></h4>
-<h4><b><i><strong>MF1005_3: Optimización de la cadena logística</strong><b></b></b></i></h4>
+<h4><i><b><strong>MF1012_3: Distribución capilar</strong><b></i></h4>
+<h4><b><i><strong>MF1013_3: Transporte de larga distancia</strong><b></i></h4>
+<h4><b><i><strong>MF1005_3: Optimización de la cadena logística</strong><b></i></h4>
 
 <hr size="5px" color="#268BD4" />
 <h4><b><span style="color: #268BD4;">(COML0210)</span> GESTIÓN Y CONTROL DEL APROVISIONAMIENTO (RD 1522/2011, de 31 de octubre)<b></b></b></h4>
 
-<h4><b><i><strong>MF1003_3: Planificación del aprovisionamiento</strong><b></b></b></i></h4>
+<h4><b><i><strong>MF1003_3: Planificación del aprovisionamiento</strong><b></i></h4>
 </div>
 <ul>
  	<li><span style="color: #000000;">UF0475: Planificación y gestión de la demanda</span></li>
  	<li><span style="color: #000000;">UF0476: Gestión de inventarios</span></li>
 </ul>
 
-<h4><b><i><strong>MF1004_3: Gestión de proveedores</strong><b></b></b></i></h4>
+<h4><b><i><strong>MF1004_3: Gestión de proveedores</strong><b><</i></h4>
 
-<h4><b><i><strong>MF1005_3: Optimización de la cadena logística</strong><b></b></b></i></h4>
+<h4><b><i><strong>MF1005_3: Optimización de la cadena logística</strong><b></i></h4>
 </div>
 <hr size="5px" color="#268BD4" />
 <h4><b><span style="color: #268BD4;">(ADGD0208)</span> GESTIÓN INTEGRADA DE RECURSOS HUMANOS (RD1210/2009, de 17 de julio, modificado por el RD 645/2011, de 9 de mayo) </b></h4>
