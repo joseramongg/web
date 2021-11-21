@@ -16,7 +16,7 @@ title: Posts
     {% for post in site.related_posts limit:3 %}
     <li>
       <h3>
-        <a href="{{ /posts }}{{ post.url }}">
+        <a href="{{ '/Posts' | absolute_url }}">
           {{ post.title }}
           <small>{{ post.date | date_to_string }}</small>
         </a>
