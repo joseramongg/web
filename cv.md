@@ -109,7 +109,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 	
 <hr size="5px" color="#268BD4" />
 
-2015-2015 
+2014-2015 
 :	***Experto en Coaching***  
 *Universidad de Santiago de Compostela.*  
 	- Coaching personal, coaching de equipos y coaching empresarial. Herramientas.  
