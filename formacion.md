@@ -64,3 +64,13 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
         
 	
 <hr size="5px" color="#268BD4" />
+
+2008-2008 
+:	***Bachillerato, COU y Selectividad***  
+*Unisersidad de Santiago de Compostela.*  
+	- Estudios superados de Bachillerato, COU y Selectividad. 
+    - Acceso a la Universidad. 
+    - Estudios de Ingeniería Técnica Industrial.
+        
+	
+<hr size="5px" color="#268BD4" />
