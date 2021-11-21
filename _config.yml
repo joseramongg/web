@@ -3,7 +3,7 @@ title:               José Ramón García
 tagline:             'Prospector Laboral'
 description:         
 url:                 https://jrgarcia.es
-baseurl:             ''
+baseurl:             
 paginate:            5
 permalink:           pretty
 
