@@ -20,7 +20,16 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 <hr size="5px" color="#268BD4" />
 
 
-<h2><b><span style="color: #bc595c;">(ADGG0208)</span> ACTIVIDADES ADMINISTRATIVAS EN LA RELACIÓN CON EL CLIENTE (RD 1210/2009, de 17 de julio, modificado por el RD 645/2011, de 9 de mayo) </b></h2>
+
+
+
+
+
+
+
+
+
+<h4><b><span style="color: #bc595c;">(ADGG0208)</span> ACTIVIDADES ADMINISTRATIVAS EN LA RELACIÓN CON EL CLIENTE (RD 1210/2009, de 17 de julio, modificado por el RD 645/2011, de 9 de mayo) </b></h4>
 <h4><b>MF0975_2: Técnicas de recepción y comunicación. </b></h4>
 <h4><b>MF0976_2: Operaciones administrativas comerciales </b></h4>
 <ul>
@@ -41,7 +50,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 
 <hr />
 
-<h2><b><span style="color: #bc595c;">(ADGG0408)</span> OPERACIONES AUXILIARES DE SERVICIOS ADMINISTRATIVOS Y GENERALES (RD 645/2011 de 9 de mayo) </b></h2>
+<h3><b><span style="color: #bc595c;">(ADGG0408)</span> OPERACIONES AUXILIARES DE SERVICIOS ADMINISTRATIVOS Y GENERALES (RD 645/2011 de 9 de mayo) </b></h3>
 <h4><b>MF0969_1 Técnicas administrativas básicas de oficina </b></h4>
 <ul>
  	<li>UF0517: Organización empresarial y de recursos humanos</li>
