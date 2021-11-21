@@ -9,19 +9,6 @@ title: Docencia
 
 E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [https://www.jrgarcia.es](https://www.jrgarcia.es){:target="_blank"}  
 
-<hr size="5px" color="#268BD4" />
-
-	
-<hr size="5px" color="#268BD4" />
-
-
-
-
-
-
-
-
-
 
 <hr size="5px" color="#268BD4" />
 <h4><b><span style="color: #bc595c;">(ADGG0208)</span> ACTIVIDADES ADMINISTRATIVAS EN LA RELACIÓN CON EL CLIENTE (RD 1210/2009, de 17 de julio, modificado por el RD 645/2011, de 9 de mayo) </b></h4>
