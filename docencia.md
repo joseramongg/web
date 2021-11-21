@@ -132,7 +132,7 @@ UF0927: Gestión del equipo de trabajo del almacén</li>
 <h4><b><strong>MF1005_3: Optimización de la cadena logística</strong><b></b></b></h4>
 </div>
 <hr size="5px" color="#268BD4" />
-<h3><b><span style="color: #bc595c;">(ADGD0208)</span> GESTIÓN INTEGRADA DE RECURSOS HUMANOS (RD1210/2009, de 17 de julio, modificado por el RD 645/2011, de 9 de mayo) </b></h3>
+<h4><b><span style="color: #bc595c;">(ADGD0208)</span> GESTIÓN INTEGRADA DE RECURSOS HUMANOS (RD1210/2009, de 17 de julio, modificado por el RD 645/2011, de 9 de mayo) </b></h4>
 <h4><b>MF0238_3: Gestión de recursos humanos </b></h4>
 <ul>
  	<li>UF0345: Apoyo Administrativo a la Gestión de Recursos Humanos</li>
@@ -149,7 +149,7 @@ UF0927: Gestión del equipo de trabajo del almacén</li>
 </ul>
 
 <hr size="5px" color="#268BD4" />
-<h3><b><span style="color: #bc595c;">(ADGD0108)</span> GESTIÓN CONTABLE Y GESTIÓN ADMINISTRATIVA PARA AUDITORÍA (RD1210/2009, de 17 de julio, modificado por el RD 645/2011, de 9 de mayo) </b></h3>
+<h4><b><span style="color: #bc595c;">(ADGD0108)</span> GESTIÓN CONTABLE Y GESTIÓN ADMINISTRATIVA PARA AUDITORÍA (RD1210/2009, de 17 de julio, modificado por el RD 645/2011, de 9 de mayo) </b></h4>
 <h4><b>MF0233_2: Ofimática </b></h4>
 <ul>
  	<li>UF0319: Sistema Operativo, Búsqueda de la Información: Internet/Intranet y Correo Electrónico</li>
@@ -160,7 +160,7 @@ UF0927: Gestión del equipo de trabajo del almacén</li>
 </ul>
 
 <hr size="5px" color="#268BD4" />
-<h3><b><span style="color: #bc595c;">(ADGG0508)</span> OPERACIONES DE GRABACIÓN Y TRATAMIENTO DE DATOS Y DOCUMENTOS (RD645/2011 de 9 de mayo) </b></h3>
+<h4><b><span style="color: #bc595c;">(ADGG0508)</span> OPERACIONES DE GRABACIÓN Y TRATAMIENTO DE DATOS Y DOCUMENTOS (RD645/2011 de 9 de mayo) </b></h4>
 <h4><b>MF0973_1: Grabación de datos </b></h4>
 <h4><b>MF0974_1: Tratamiento de datos, textos y documentación </b></h4>
 <ul>
