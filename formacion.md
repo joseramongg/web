@@ -5,13 +5,10 @@ title: Formación
 
 <hr size="5px" color="#268BD4" />
 
-<p><h2><span style="color:#268BD4">Estudios y Formación</span></h2></p>
+<p><h2><span style="color:#268BD4">Formación y Estudios</span></h2></p>
 
 E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [https://www.jrgarcia.es](https://www.jrgarcia.es){:target="_blank"}  
 
-<hr size="5px" color="#268BD4" />
-
-<p><h2><span style="color:#268BD4">Educación y Formación</span></h2></p>
 
 <hr size="5px" color="#268BD4" />
 

@@ -11,10 +11,6 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 
 <hr size="5px" color="#268BD4" />
 
-<p><h2><span style="color:#268BD4">Experiencia Laboral</span></h2></p>
-
-<hr size="5px" color="#268BD4" />
-
 2017- Actualidad
 :	***Prospector Laboral del Programa Acceder.***  
 *Santiago de Compostela*  
