@@ -103,19 +103,6 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 </ul>
 
 <hr size="5px" color="#268BD4" />
-<h4><b><span style="color: #268BD4;">(COML0309)</span> ORGANIZACIÓN Y GESTIÓN DE ALMACENES (RD642/2011 de 9 de mayo) </b></h4>
-<h4><b>MF1014_3: Organización de almacenes </b></h4>
-<ul>
- 	<li>UF0926: Diseño y organización del almacén
-UF0927: Gestión del equipo de trabajo del almacén</li>
- 	<li>UF0928: Seguridad y prevención de riesgos en el almacén</li>
-</ul>
-<h4><b>MF1015_2: Gestión de las operaciones de almacenaje. </b></h4>
-<ul>
- 	<li>UF0929: Gestión de pedidos y stock</li>
-</ul>
-
-<hr size="5px" color="#268BD4" />
 <h4><b><span style="color: #268BD4;">(COML0209)</span> ORGANIZACIÓN DEL TRANSPORTE Y LA DISTRIBUCIÓN (RD 642/2011 de 9 de mayo)<b></b></b></h4>
 <h4><b><strong>MF1012_3: Distribución capilar</strong><b></b></b></h4>
 <h4><b><strong>MF1013_3: Transporte de larga distancia</strong><b></b></b></h4>
