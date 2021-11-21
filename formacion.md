@@ -66,7 +66,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 <hr size="5px" color="#268BD4" />
 
 1981-1986 
-:	***Bachillerato, COU y Selectividad***  
+:	***Acceso a la Universidad. Ingeniería Técnica Industrial.***  
 *Unisersidad de Santiago de Compostela.*  
 	- Estudios superados de Bachillerato, COU y Selectividad. 
     - Acceso a la Universidad. 
