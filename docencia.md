@@ -12,7 +12,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 <hr size="5px" color="#268BD4" />
 
 <h4><b><span style="color: #268BD4;">(COML0309)</span> ORGANIZACIÓN Y GESTIÓN DE ALMACENES (RD 642/2011, de 9 de mayo) </b></h4>
-<h4><b>MF1014_3: Organización de almacenes </b></h4>
+<h4><i><b>MF1014_3: Organización de almacenes </b></i></h4>
 <ul>
  	<li>UF0926: Diseño y organización del almacén</li>
  	<li>UF0927: Gestión del equipo de trabajo del almacén</li>
