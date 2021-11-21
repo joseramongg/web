@@ -13,7 +13,7 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.title == 'Inicio' %} active{% endif %}" href="{{ '/' | absolute_url }}">Inicio</a>
+    <a class="sidebar-nav-item{% if page.title == 'Inicio' %} active{% endif %}" href="{{ site.baseurl }}{{ post.url }}">Inicio</a>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
@@ -29,7 +29,7 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item{% if page.title == 'Posts' %} active{% endif %}" href="{{'posts' | absolute_url }}">Posts</a>
+    <a class="sidebar-nav-item{% if page.title == 'Posts' %} active{% endif %}" href="{{ site.baseurl }}{{ post.url }}">Posts</a>
   </nav>
 
   <div class="sidebar-item">
