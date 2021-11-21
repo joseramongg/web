@@ -30,7 +30,6 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
  	<li>UF0323: Aplicaciones Informáticas para Presentaciones: Gráficas de Información</li>
 </ul>
 
-<hr />
 <hr size="5px" color="#268BD4" />
 
 <h4><b><span style="color: #bc595c;">(ADGG0408)</span> OPERACIONES AUXILIARES DE SERVICIOS ADMINISTRATIVOS Y GENERALES (RD 645/2011 de 9 de mayo) </b></h4>
@@ -51,7 +50,6 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
  	<li>UF0514: Gestión auxiliar de reproducción en soporte convencional o informático</li>
 </ul>
 
-<hr />
 <hr size="5px" color="#268BD4" />
 <h4><b><span style="color: #bc595c;">(ADGD0308)</span> ACTIVIDADES DE GESTION ADMINISTRATIVA (RD 645/2011, de 9 de mayo) </b></h4>
 <h4><b>MF0976_2:Operaciones administrativas comerciales </b></h4>
@@ -90,7 +88,6 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
  	<li>UF0032: Venta online.</li>
 </ul>
 
-<hr />
 <hr size="5px" color="#268BD4" />
 <h4><b><span style="color: #bc595c;">(COML0309)</span> ORGANIZACIÓN Y GESTIÓN DE ALMACENES (RD642/2011 de 9 de mayo) </b></h4>
 <h4><b>MF1014_3: Organización de almacenes </b></h4>
@@ -104,14 +101,12 @@ UF0927: Gestión del equipo de trabajo del almacén</li>
  	<li>UF0929: Gestión de pedidos y stock</li>
 </ul>
 
-<hr />
 <hr size="5px" color="#268BD4" />
 <h4><b><span style="color: #bc595c;">(COML0209)</span> ORGANIZACIÓN DEL TRANSPORTE Y LA DISTRIBUCIÓN (RD 642/2011 de 9 de mayo)<b></b></b></h4>
 <h4><b><strong>MF1012_3: Distribución capilar</strong><b></b></b></h4>
 <h4><b><strong>MF1013_3: Transporte de larga distancia</strong><b></b></b></h4>
 <h4><b><strong>MF1005_3: Optimización de la cadena logística</strong><b></b></b></h4>
 
-<hr />
 <hr size="5px" color="#268BD4" />
 <h4><b><span style="color: #bc595c;">(COML0210)</span> GESTIÓN Y CONTROL DEL APROVISIONAMIENTO (RD 1522/2011, de 31 de octubre)<b></b></b></h4>
 <div class="page" title="Page 1">
@@ -138,15 +133,6 @@ UF0927: Gestión del equipo de trabajo del almacén</li>
 <div class="column">
 <h4><b><strong>MF1005_3: Optimización de la cadena logística</strong><b></b></b></h4>
 </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<hr />
 <hr size="5px" color="#268BD4" />
 <h3><b><span style="color: #bc595c;">(ADGD0208)</span> GESTIÓN INTEGRADA DE RECURSOS HUMANOS (RD1210/2009, de 17 de julio, modificado por el RD 645/2011, de 9 de mayo) </b></h3>
 <h4><b>MF0238_3: Gestión de recursos humanos </b></h4>
@@ -164,7 +150,6 @@ UF0927: Gestión del equipo de trabajo del almacén</li>
  	<li>UF0323: Aplicaciones Informáticas para Presentaciones: Gráficas de Información</li>
 </ul>
 
-<hr />
 <hr size="5px" color="#268BD4" />
 <h3><b><span style="color: #bc595c;">(ADGD0108)</span> GESTIÓN CONTABLE Y GESTIÓN ADMINISTRATIVA PARA AUDITORÍA (RD1210/2009, de 17 de julio, modificado por el RD 645/2011, de 9 de mayo) </b></h3>
 <h4><b>MF0233_2: Ofimática </b></h4>
@@ -176,7 +161,6 @@ UF0927: Gestión del equipo de trabajo del almacén</li>
  	<li>UF0323: Aplicaciones Informáticas para Presentaciones: Gráficas de Información</li>
 </ul>
 
-<hr />
 <hr size="5px" color="#268BD4" />
 <h3><b><span style="color: #bc595c;">(ADGG0508)</span> OPERACIONES DE GRABACIÓN Y TRATAMIENTO DE DATOS Y DOCUMENTOS (RD645/2011 de 9 de mayo) </b></h3>
 <h4><b>MF0973_1: Grabación de datos </b></h4>
