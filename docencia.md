@@ -120,17 +120,6 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 </ul>
 
 
-<hr size="5px" color="#268BD4" />
-<h4><b><span style="color: #268BD4;">(COML0209)</span> ORGANIZACIÓN DEL TRANSPORTE Y LA DISTRIBUCIÓN (RD 642/2011 de 9 de mayo) <b></h4>
-<h4><i><b>MF1012_3: Distribución capilar </b></i></h4>
-<ul>
-</ul>
-<h4><i><b>MF1013_3: Transporte de larga distancia </b></i></h4>
-<ul>
-</ul>
-<h4><i><b>MF1005_3: Optimización de la cadena logística </b></i></h4>
-<ul>
-</ul>
 
 <hr size="5px" color="#268BD4" />
 <h4><b><span style="color: #268BD4;">(COML0210)</span> GESTIÓN Y CONTROL DEL APROVISIONAMIENTO (RD 1522/2011, de 31 de octubre) <b></h4>
