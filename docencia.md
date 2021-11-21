@@ -116,9 +116,6 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 <div class="column">
 <h4><b><strong>MF1003_3: Planificación del aprovisionamiento</strong><b></b></b></h4>
 </div>
-</div>
-</div>
-</div>
 <ul>
  	<li><span style="color: #000000;">UF0475: Planificación y gestión de la demanda</span></li>
  	<li><span style="color: #000000;">UF0476: Gestión de inventarios</span></li>
