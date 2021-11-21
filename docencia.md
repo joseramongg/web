@@ -110,25 +110,16 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 
 <hr size="5px" color="#268BD4" />
 <h4><b><span style="color: #268BD4;">(COML0210)</span> GESTIÓN Y CONTROL DEL APROVISIONAMIENTO (RD 1522/2011, de 31 de octubre)<b></b></b></h4>
-<div class="page" title="Page 1">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
+
 <h4><b><i><strong>MF1003_3: Planificación del aprovisionamiento</strong><b></b></b></i></h4>
 </div>
 <ul>
  	<li><span style="color: #000000;">UF0475: Planificación y gestión de la demanda</span></li>
  	<li><span style="color: #000000;">UF0476: Gestión de inventarios</span></li>
 </ul>
-<div class="page" title="Page 1">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
+
 <h4><b><i><strong>MF1004_3: Gestión de proveedores</strong><b></b></b></i></h4>
-<div class="page" title="Page 1">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
+
 <h4><b><i><strong>MF1005_3: Optimización de la cadena logística</strong><b></b></b></i></h4>
 </div>
 <hr size="5px" color="#268BD4" />
@@ -168,7 +159,8 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
  	<li>UF0511: Tratamiento básico de datos y hojas de cálculo</li>
  	<li>UF0512: Transmisión de información por medios convencionales e informáticos.</li>
 </ul>
-<h4><i><b>MF0971_1: Reproducción y archivo</b></i></h4>
+<h4><i><b>MF0971_1: Reproducción y archivo
+</b></i></h4>
 <ul>
  	<li>UF0513: Gestión auxiliar de archivo en soporte convencional o informático</li>
  	<li>UF0514: Gestión auxiliar de reproducción en soporte convencional o informático</li>
