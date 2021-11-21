@@ -136,12 +136,6 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 </ul>
 
 
-
-
-
-
-
-
 <hr size="5px" color="#268BD4" />
 <h4><b><span style="color: #268BD4;">(ADGD0208)</span> GESTIÓN INTEGRADA DE RECURSOS HUMANOS (RD1210/2009, de 17 de julio, modificado por el RD 645/2011, de 9 de mayo) </b></h4>
 <h4><i><b>MF0238_3: Gestión de recursos humanos </b></i></h4>
