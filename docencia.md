@@ -9,6 +9,23 @@ title: Docencia
 
 E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [https://www.jrgarcia.es](https://www.jrgarcia.es){:target="_blank"}  
 
+<hr size="5px" color="#268BD4" />
+
+<h4><b><span style="color: #268BD4;">(COML0309)</span> ORGANIZACIÓN Y GESTIÓN DE ALMACENES (RD 642/2011, de 9 de mayo) </b></h4>
+<h4><b>MF1014_3: Organización de almacenes </b></h4>
+<ul>
+ 	<li>UF0926: Diseño y organización del almacén</li>
+ 	<li>UF0927: Gestión del equipo de trabajo del almacén</li>
+ 	<li>UF0928: Seguridad y prevención de riesgos en el almacén</li>
+</ul>
+<h4><b>MF1015_2: Gestión de las operaciones del almacenaje. </b></h4>
+<ul>
+ 	<li>UF0929: Diseño y organización del almacén</li>
+ 	<li>UF0928: Seguridad y prevención de riesgos en el almacén</li>
+ 	
+</ul>
+<h4><b>MF1005_3: Optimización de la cadena logística. </b></h4>
+</ul>
 
 <hr size="5px" color="#268BD4" />
 <h4><b><span style="color: #268BD4;">(ADGG0208)</span> ACTIVIDADES ADMINISTRATIVAS EN LA RELACIÓN CON EL CLIENTE (RD 1210/2009, de 17 de julio, modificado por el RD 645/2011, de 9 de mayo) </b></h4>
