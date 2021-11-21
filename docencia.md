@@ -112,7 +112,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 <h4><b><span style="color: #268BD4;">(COML0210)</span> GESTIÓN Y CONTROL DEL APROVISIONAMIENTO (RD 1522/2011, de 31 de octubre) <b></h4>
 
 <h4><i><b>MF1003_3: Planificación del aprovisionamiento</b></i></h4>
-</div>
+
 <ul>
  	<li>UF0475: Planificación y gestión de la demanda</li>
  	<li>UF0476: Gestión de inventarios</li>
