@@ -1,5 +1,5 @@
 
-<h2><strong>Currículum</strong></h2>
+<h1><strong>Currículum</strong></h1>
 
 <hr size="5px" color="#268BD4" />
 
