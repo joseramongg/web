@@ -1,4 +1,6 @@
 
+<h2>Currículum</h2>
+
 <hr size="5px" color="#268BD4" />
 
 <p><h2><span style="color:#268BD4">Contacto</span></h2></p>
