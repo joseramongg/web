@@ -11,5 +11,5 @@ Si necesitas contactar conmigo, puedes enviarme un email a: [jose@jrgarcia.es](m
 
 
 
-<a href=”https://www.linkedin.com/in/joseramongg/” target=”_blank”><i class=”fab fa-linkedin-in”></i></a>
+
 
