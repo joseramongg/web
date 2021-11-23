@@ -9,8 +9,3 @@ Si necesitas contactar conmigo, puedes enviarme un email a: [jose@jrgarcia.es](m
 <hr size="5px" color="#268BD4" />
 
 
-
-  <div class="sidebar-item">
-    <a href="https://linkedin.com/in/joseramongg" target="_blank"><i class="fa fa-linkedin"></i></a>
-    <a href="https://github.com/joseramongg" target="_blank"><i class="fa fa-github"></i></a>
-  </div>
