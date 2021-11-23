@@ -9,4 +9,4 @@ Si necesitas contactar conmigo, puedes enviarme un email a: [jose@jrgarcia.es](m
 <hr size="5px" color="#268BD4" />
 
 
-<a href="http://www.linkedin.com/in/joseramongg" target="_blank"><img src="https://sites.google.com/site/2ndfunniestthing/linkedin.png" alt="Contactar con 2nd Funniest Thing en LinkedIn"/></a>
+<a href="http://www.linkedin.com/in/joseramongg" target="_blank"><img src="/linkedin.png" alt="Contactar con 2nd Funniest Thing en LinkedIn"/></a>
