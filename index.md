@@ -7,3 +7,7 @@ En el menú encontrarás información sobre mi Experiencia y Formación y tambi�
 Si necesitas contactar conmigo, puedes enviarme un email a: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"}   
 
 <hr size="5px" color="#268BD4" />
+
+
+<a href="https://linkedin.com/in/joseramongg" target="_blank"><i class="fa fa-linkedin"></i></a>
+<a href="https://github.com/joseramongg" target="_blank"><i class="fa fa-github"></i></a>
