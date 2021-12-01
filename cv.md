@@ -33,9 +33,10 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 2011-2014
 :	***Director de Operaciones en Tórculo S.A.***  
 *Santiago de Compostela*  
-	- Docente de Certificados de Profesionalidad nivel 3.  
-    - Proyectos de Interim Manager.  
-    - Dirección y Gerencia Empresarial en empresas TIC y Logística.
+	- Organización y planificación del trabajo y análisis de desvíos de ratios de productividad y aplicación de medidas correctoras. 
+    - Control de calidad y delegado representante de las evaluaciones de Riesgos Laborales. 
+    - Gestión del Desempeño para el desarrollo de plantillas.
+    - Coordinación de Grupos de Mejora.
 
 <hr size="5px" color="#268BD4" />
 
