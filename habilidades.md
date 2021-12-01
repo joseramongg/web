@@ -12,9 +12,8 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 
 <p><h2><span style="color:#268BD4">Sociales</span></h2></p>
 	
-Desde 2017 formo parte de la plantilla del Programa Acceder de la Fundación Secretariado Gitano. Acceder es el Programa de Empleo de la Fundación Secretariado Gitano centrada en funciones de:
+Desde 2017 formo parte de la plantilla del Programa Acceder de la Fundación Secretariado Gitano. Acceder es un servicio público de intermediación laboral dirigido a empresas y personas desempleadas centrada en funciones de:
 
-- Servicio público de intermediación laboral dirigido a empresas y personas desempleadas.  
 - Intermediación con empresas con la finalidad de poner en contacto ofertas y demandas de empleo.  
 - Firma de convenios con empresas para la colaboración en procesos de formación y prácticas.  
 - Orientación y formación en búsqueda activa de empleo.  
