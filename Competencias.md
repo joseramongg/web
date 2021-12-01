@@ -24,6 +24,6 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 
 <p><h2><span style="color:#268BD4">Técnicas</span></h2></p>
 	
- 	A nivel empresarial, siempre he formado parte del Comité de Dirección y Ejecutivo lo que me ha aportado un visión privilegiada de las estructuras empresariales. Experto en ofimática y en sistemas profesionales de edición. Apasionado de la programación y desarrollo de aplicaciones. En continuo aprendizaje en el ámbito de nuevas tecnologías, redes sociales, programación y educación.
+ 	A nivel empresarial, he formado parte de Comités de Dirección Ejecutiva lo que me ha aportado un visión privilegiada de las estructuras empresariales. Experto en ofimática y en sistemas profesionales de edición. Apasionado de la programación y desarrollo de aplicaciones. En continuo aprendizaje en el ámbito de nuevas tecnologías, redes sociales, programación y educación.
 
 <hr size="5px" color="#268BD4" />
