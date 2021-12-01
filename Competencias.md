@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Competencias y Aptitudes
+title: Competencias
 ---
 
 <hr size="5px" color="#268BD4" />
