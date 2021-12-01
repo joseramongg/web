@@ -18,14 +18,14 @@ COMPETENCIAS Y APTITUDES SOCIALES
 
 <hr size="5px" color="#268BD4" />
 
-COMPETENCIAS Y APTITUDES SOCIALES 
+COMPETENCIAS Y APTITUDES ORGANIZATIVAS 
 	
  	Mi experiencia profesional me ha permitido desarrollar competencias relacionadas con el liderazgo de equipos, capacidad analítica y desarrollo de personas. Soy Docente de la Formación Profesional para el Empleo y he ofrecido servicios de Interim Management y Gerencia aportando experiencia y conocimiento a las organizaciones. Mi experiencia en distintos ámbitos profesionales ha favorecido el desarrollo de habilidades relacionadas con la gestión organizativa y formativa de grupos orientado a la consecución de objetivos y trabajo en equipo.  
 
 <hr size="5px" color="#268BD4" />
 
-COMPETENCIAS Y APTITUDES SOCIALES 
+COMPETENCIAS Y APTITUDES TÉCNICAS 
 	
  	A nivel empresarial, siempre he formado parte del Comité de Dirección y Ejecutivo lo que me ha aportado un visión privilegiada de las estructuras empresariales. Experto en ofimática y en sistemas profesionales de edición. Apasionado de la programación y desarrollo de aplicaciones. En continuo aprendizaje en el ámbito de nuevas tecnologías, redes sociales, programación y educación.
-     
+
 <hr size="5px" color="#268BD4" />
