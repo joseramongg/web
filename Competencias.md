@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Competencias
+title: Competencias y Aptitudes
 ---
 
 <hr size="5px" color="#268BD4" />
@@ -10,19 +10,19 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 
 <hr size="5px" color="#268BD4" />
 
-<p><h2><span style="color:#268BD4">Competencias y Aptitudes Sociales</span></h2></p>
+<p><h2><span style="color:#268BD4">Sociales</span></h2></p>
 	
  	Como docente de Programas de Integración para el Empleo y de Certificados de Profesionalidad he adquirido experiencia trabajando en entornos multiculturales donde la comunicación es importante y la capacidad para crear equipos de trabajo ayuda al aprendizaje. Siempre me ha apasionado tener la oportunidad de ayudar enseñando, principalmente, a colectivos desfavorecidos.  
 
 <hr size="5px" color="#268BD4" />
 
-<p><h2><span style="color:#268BD4">Competencias y Aptitudes Organizativas</span></h2></p>
+<p><h2><span style="color:#268BD4">Organizativas</span></h2></p>
 	
  	Mi experiencia profesional me ha permitido desarrollar competencias relacionadas con el liderazgo de equipos, capacidad analítica y desarrollo de personas. Soy Docente de la Formación Profesional para el Empleo y he ofrecido servicios de Interim Management y Gerencia aportando experiencia y conocimiento a las organizaciones. Mi experiencia en distintos ámbitos profesionales ha favorecido el desarrollo de habilidades relacionadas con la gestión organizativa y formativa de grupos orientado a la consecución de objetivos y trabajo en equipo.  
 
 <hr size="5px" color="#268BD4" />
 
-<p><h2><span style="color:#268BD4">Competencias y Aptitudes Técnicas</span></h2></p>
+<p><h2><span style="color:#268BD4">Técnicas</span></h2></p>
 	
  	A nivel empresarial, siempre he formado parte del Comité de Dirección y Ejecutivo lo que me ha aportado un visión privilegiada de las estructuras empresariales. Experto en ofimática y en sistemas profesionales de edición. Apasionado de la programación y desarrollo de aplicaciones. En continuo aprendizaje en el ámbito de nuevas tecnologías, redes sociales, programación y educación.
 
