@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Competencias
+title: Habilidades
 ---
 
 <hr size="5px" color="#268BD4" />
