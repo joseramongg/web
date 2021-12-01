@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Formación
+title: Competencias
 ---
 
 <hr size="5px" color="#268BD4" />
