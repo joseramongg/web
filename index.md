@@ -4,11 +4,11 @@ Accede a mi perfil de [Linkedin](https://www.linkedin.com/in/joseramongg){:targe
 
 En el menú encontrarás información sobre mi Experiencia y Formación y también sobre los módulos de [Certificados de Profesionalidad](docencia.md) para los que estoy acreditado.  
 
-Si necesitas contactar conmigo, puedes enviarme un email a: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"}   
+<p><h2><span style="color:#268BD4">Contacto:</span></h2></p>
+
+E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [https://www.jrgarcia.es](https://www.jrgarcia.es){:target="_blank"}  
 
 <hr size="5px" color="#268BD4" />
-
-
 
 
 
