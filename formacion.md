@@ -126,6 +126,13 @@ trabajadores en materia de Prevención.
 	- Estudios superados de Bachillerato, COU y Selectividad. 
     - Acceso a la Universidad. 
     - Estudios de Ingeniería Técnica Industrial.
-        
+
+<hr size="5px" color="#268BD4" />
+
+1981-1983 
+:	***Certificado Idioma Inglés***  
+*Trinity College Dublin*  
+	- Certificado nivel 11/12. 
+    - Residencia en Dublin. 
 	
 <hr size="5px" color="#268BD4" />
