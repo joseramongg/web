@@ -60,7 +60,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 <hr size="5px" color="#268BD4" />
 
 1996-2000
-:	***Socio-Gerente Grafinoia.***  
+:	***Socio Grafinoia.***  
 *Noia - A Coruña*  
 	- Funciones de producción en los departamentos de preimpresión, impresión offset e impresión digital.  
     - Funciones de Administración y Gestión de la empresa.      
