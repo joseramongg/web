@@ -69,7 +69,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 <hr size="5px" color="#268BD4" />
 
 1994-2000
-:	***Gerente Centro de Formación Paraninfo.***  
+:	***Administrador Centro de Formación Paraninfo.***  
 *Noia - A Coruña*  
 	- Funciones de dirección del centro.  
     - Impartición de la asignatura de matemáticas a niveles preunisersitarios, universitarios y oposiciones.      
