@@ -131,8 +131,8 @@ trabajadores en materia de Prevención.
 
 1981-1983 
 :	***Certificado Idioma Inglés***  
-*Trinity College Dublin*  
+*Trinity College Dublín*  
 	- Certificado nivel 11/12. 
-    - Residencia en Dublin. 
+    - Residencia en Dublín. 
 	
 <hr size="5px" color="#268BD4" />
