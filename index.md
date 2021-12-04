@@ -15,3 +15,11 @@ En el menú encontrarás información sobre mi Experiencia y Formación y tambi�
 
 
 [![](linkedin.png)](https://www.linkedin.com/in/joseramongg){:target="_blank"}|[![](github.png)](https://github.com/joseramongg){:target="_blank"}|[![](twitter.png)](https://twitter.com/joseramongg){:target="_blank"}|[![](facebook.png)](https://www.facebook.com/joseramon.garcia.3382){:target="_blank"}
+
+
+<table border="0" width="95%" height="auto"><tr>
+<td><center><img src="linkedin.png" border="0"></center></td>
+<td><center><img src="github.png" border="0"></center></td>
+<td><center><img src="twitter.png" border="0"></center></td>
+<td><center><img src="facebook.png" border="0"></center></td>
+</tr></table>
