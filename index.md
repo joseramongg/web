@@ -18,7 +18,7 @@ En el menú encontrarás información sobre mi Experiencia y Formación y tambi�
 
 
 <table border="0" width="95%" height="auto"><tr>
-<td><center><a href="https://www.linkedin.com/in/joseramongg"><img src="linkedin.png" target="_blank"></center></a></td>
+<td><center><a href="https://www.linkedin.com/in/joseramongg"><img src="linkedin.png" target="_blank"></a></center></td>
 <td><center><img src="github.png" border="0"></center></td>
 <td><center><img src="twitter.png" border="0"></center></td>
 <td><center><img src="facebook.png" border="0"></center></td>
