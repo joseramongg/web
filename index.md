@@ -13,6 +13,6 @@ En el menú encontrarás información sobre mi Experiencia y Formación y tambi�
 
 <hr size="5px" color="#268BD4" />
 
-<a href="https://www.linkedin.com/in/joseramongg"><img src="linkedin.png">{:target="_blank"}</a>
+<a href="https://www.linkedin.com/in/joseramongg"><img src="linkedin.png"><target="_blank"></a>
 
 
