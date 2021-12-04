@@ -14,5 +14,6 @@ En el menú encontrarás información sobre mi Experiencia y Formación y tambi�
 <hr size="5px" color="#268BD4" />
 
 
-
+<center>
 [![](linkedin.png)](https://www.linkedin.com/in/joseramongg){:target="_blank"}|[![](github.png)](https://github.com/joseramongg){:target="_blank"}|[![](twitter.png)](https://twitter.com/joseramongg){:target="_blank"}|[![](facebook.png)](https://www.facebook.com/joseramon.garcia.3382){:target="_blank"}
+</center>
