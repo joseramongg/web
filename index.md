@@ -15,4 +15,4 @@ En el menú encontrarás información sobre mi Experiencia y Formación y tambi�
 
 
 
-[![](linkedin.png)](https://www.linkedin.com/in/joseramongg){:target="_blank"} | [![](twitter.png)](https://twitter.com/joseramongg){:target="_blank"}
+[![](linkedin.png)](https://www.linkedin.com/in/joseramongg){:target="_blank"} - [![](twitter.png)](https://twitter.com/joseramongg){:target="_blank"}
