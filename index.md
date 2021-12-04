@@ -13,10 +13,7 @@ En el menú encontrarás información sobre mi Experiencia y Formación y tambi�
 
 <hr size="5px" color="#268BD4" />
 
-<a href="https://www.linkedin.com/in/joseramongg" target="_blank"><img src="linkedin.png"></a>
-<a href="https://twitter.com/joseramongg" target="_blank"><img src="twitter.png"/></a>
-
-<table border="0" width="95%" height="auto"><tr>
+<table border="0" width="50%" height="auto"><tr>
 <td><center><a href="https://www.linkedin.com/in/joseramongg" target="_blank"><img src="linkedin.png"></a></center></td>
 <td><center><a href="https://twitter.com/joseramongg" target="_blank"><img src="twitter.png"></a></center></td>
 </tr></table>
