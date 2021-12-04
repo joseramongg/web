@@ -17,3 +17,5 @@ En el menú encontrarás información sobre mi Experiencia y Formación y tambi�
 
 <a href="https://www.linkedin.com/in/joseramongg" target="_blank"><img src="linkedin.png"></a><a href="https://twitter.com/joseramongg" target="_blank"><img src="twitter.png"></a>
 
+
+[![](linkedin.png)](https://rpubs.com){:target="_blank"}
