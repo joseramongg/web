@@ -13,7 +13,7 @@ En el menú encontrarás información sobre mi Experiencia y Formación y tambi�
 
 <hr size="5px" color="#268BD4" />
 
-
+<img src="linkedin.png">
 
 
 
