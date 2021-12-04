@@ -15,6 +15,6 @@ En el menú encontrarás información sobre mi Experiencia y Formación y tambi�
 
 <img src="linkedin.png">
 
-
+<a href="https://www.linkedin.com/in/joseramongg"><img src="linkedin.png"></a>
 
 
