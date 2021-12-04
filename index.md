@@ -7,7 +7,10 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 <hr size="5px" color="#268BD4" />
 
 En el menú lateral encontrarás información sobre mi [Experiencia](experiencia.md) y [Formación](formacion.md) y también sobre los módulos de [Certificados de Profesionalidad](docencia.md) para los que estoy acreditado.  
+  
 
+
+  
 <table border="0" width="95%" height="auto">
   <tr>
     <td>
