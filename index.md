@@ -8,6 +8,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 
 En el menú lateral encontrarás información sobre mi [Experiencia](experiencia.md) y [Formación](formacion.md) y también sobre los módulos de [Certificados de Profesionalidad](docencia.md) para los que estoy acreditado.  
   
+<a tittle="LinkedIn" href="https://www.linkedin.com/in/oseramongg" target="_blank"><img src="linkedin.png"></a>  
   
 
 <table border="0" width="95%" height="auto">
