@@ -36,10 +36,10 @@ Desde 2017 formo parte de la plantilla del Programa Acceder de la Fundación Sec
 	
  	A nivel empresarial he formado parte de comités de dirección ejecutiva lo que me ha aportado un visión privilegiada de las estructuras empresariales. 
 
-	- Experto en ofimática y en sistemas profesionales de edición editoral. 
-	- Apasionado de la programación y desarrollo de aplicaciones. 
-	- En continuo aprendizaje en el ámbito de nuevas tecnologías, redes sociales, programación y educación.
-	- Experiencia en análisis técnico financiero.
-	- Experiencia en proyectos de gestión del desempeño de plantillas.
+- Experto en ofimática y en sistemas profesionales de edición editoral. 
+- Apasionado de la programación y desarrollo de aplicaciones. 
+- En continuo aprendizaje en el ámbito de nuevas tecnologías, redes sociales, programación y educación.
+- Experiencia en análisis técnico financiero.
+- Experiencia en proyectos de gestión del desempeño de plantillas.
 
 <hr size="5px" color="#268BD4" />
