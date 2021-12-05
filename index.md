@@ -1,5 +1,6 @@
 <!--html><a href="https://www.gitanos.org/20anosacceder/" target="_blank"><center><img src="acceder20.png"><center></html--> 
 <a tittle="LinkedIn" href="https://www.linkedin.com/in/joseramongg" target="_blank"><img src="linkedin.png"></a>  
+
 E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [https://www.jrgarcia.es](https://www.jrgarcia.es){:target="_blank"}  
 
 <hr size="5px" color="#268BD4" />
