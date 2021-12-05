@@ -1,3 +1,5 @@
+![](acceder20.png)
+
 E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [https://www.jrgarcia.es](https://www.jrgarcia.es){:target="_blank"}  
 
 <hr size="5px" color="#268BD4" />
