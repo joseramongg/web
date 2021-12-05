@@ -10,5 +10,5 @@ En el menú lateral encontrarás información sobre mi [Experiencia](experiencia
 
 <hr size="5px" color="#268BD4" />
 
-<a tittle="LinkedIn" href="https://www.linkedin.com/in/oseramongg" target="_blank"><img src="linkedin.png"></a>  
+<a tittle="LinkedIn" href="https://www.linkedin.com/in/joseramongg" target="_blank"><img src="linkedin.png"></a>  
   
