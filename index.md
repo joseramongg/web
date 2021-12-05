@@ -1,4 +1,4 @@
-<a href="https://www.gitanos.org/20anosacceder/" target="_blank"><center><img src="acceder20.png"><center> 
+<!--html><a href="https://www.gitanos.org/20anosacceder/" target="_blank"><center><img src="acceder20.png"><center></html--> 
 
 E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [https://www.jrgarcia.es](https://www.jrgarcia.es){:target="_blank"}  
 
