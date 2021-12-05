@@ -20,7 +20,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 <hr size="5px" color="#268BD4" />
 
 2014-2017
-:	***Profesional Freelance. Interim Manager.***  
+:	***Interim Manager. Freelance.***  
 *Santiago de Compostela.*  
 	- Docente de la Formación Profesional para el Empleo. Impartición de Certificados de Profesionalidad nivel 3.  
     - Dirección y Gerencia Empresarial en empresas TIC y Logística.
