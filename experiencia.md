@@ -22,7 +22,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 2014-2017
 :	***Profesional Freelance.***  
 *Santiago de Compostela.*  
-	- Docente de la Formación Profesional para el empleo. Impartición de Certificados de Profesionalidad nivel 3.  
+	- Docente de la Formación Profesional para el Empleo. Impartición de Certificados de Profesionalidad nivel 3.  
     - Proyectos de Interim Manager.  
     - Dirección y Gerencia Empresarial en empresas TIC y Logística.
     - Consultor del sector tecnológico.
