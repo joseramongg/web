@@ -28,7 +28,7 @@ Desde 2017 formo parte de la plantilla del Programa Acceder de la Fundación Sec
 
 <p><h2><span style="color:#268BD4">Organizativas</span></h2></p>
 	
- 	Mi experiencia profesional me ha permitido desarrollar competencias relacionadas con el liderazgo de equipos, capacidad analítica y desarrollo de personas. Soy Docente de la Formación Profesional para el Empleo y he ofrecido servicios de Interim Management y Gerencia aportando experiencia y conocimiento a las organizaciones. Mi experiencia en distintos ámbitos profesionales ha favorecido el desarrollo de habilidades relacionadas con la gestión organizativa y formativa de grupos orientado a la consecución de objetivos y trabajo en equipo.  
+ 	Mi experiencia profesional me ha permitido desarrollar competencias relacionadas con el liderazgo de equipos, capacidad analítica y desarrollo de personas. Soy Docente de la Formación Profesional para el Empleo y he ofrecido servicios de Interim Management y Gerencia aportando experiencia y conocimiento a las organizaciones. Mi experiencia en distintos ámbitos profesionales ha favorecido el desarrollo de habilidades relacionadas con la gestión organizativa y formativa de grupos orientadas a la consecución de objetivos y trabajo en equipo.  
 
 <hr size="5px" color="#268BD4" />
 
