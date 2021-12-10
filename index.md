@@ -9,6 +9,4 @@ En el menú lateral encontrarás información sobre mi [Experiencia](experiencia
 
 <hr size="5px" color="#268BD4" />
 
-<a tittle="LinkedIn" href="https://twitter.com/joseramongg" target="_blank"><img src="twitter.png"></a>  
-
 <a class="twitter-timeline" href="https://twitter.com/joseramongg?ref_src=twsrc%5Etfw">Mis Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> |
