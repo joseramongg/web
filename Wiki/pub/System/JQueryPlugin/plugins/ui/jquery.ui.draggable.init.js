@@ -1,0 +1,1 @@
+"use strict";jQuery(function(a){a(".jqUIDraggable:not(.jqUIDraggableInited)").livequery(function(){var e=a(this),t=a.extend({},e.data(),e.metadata());e.addClass("jqUIDraggableInited").draggable(t)})});

@@ -1,0 +1,1 @@
+"use strict";jQuery(function(e){var t={animate:!0};e(".jqUISlider").livequery(function(){var a=e(this),n=e.map(a.text().split(/\s*,\s*/),function(e){return parseInt(e,10)}),r={};n.length>0&&(1==n.length?r.value=n[0]:r.values=n),r=e.extend({},t,r,a.data(),a.metadata()),a.empty().removeClass("jqUISlider").slider(r)})});
