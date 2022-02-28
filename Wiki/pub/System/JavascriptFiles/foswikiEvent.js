@@ -1,1 +1,0 @@
-foswiki.Event={addLoadEvent:function(n,o){if("function"==typeof n){var i=window.onload;if("function"!=typeof window.onload)window.onload=function(){n()};else{window.onload=o?function(){n(),i()}:function(){i(),n()}}}}};

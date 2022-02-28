@@ -1,1 +1,0 @@
-"use strict";!function(n){n.fn.animateCSS=function(e){var a=n.Deferred(),i=n(this);return i.addClass("animated").addClass(e).one("animationend webkitAnimationEnd MSAnimationEnd oAnimationEnd",function(){i.removeClass("animated").removeClass(e),a.resolve()}),a.promise()}}(jQuery);

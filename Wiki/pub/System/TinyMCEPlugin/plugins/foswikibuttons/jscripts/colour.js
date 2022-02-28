@@ -1,1 +1,0 @@
-var ColoursDlg={preInit:function(){tinyMCEPopup.requireLangPack()},init:function(i){tinyMCEPopup.resizeToInnerSize()},set:function(i){tinyMCE.activeEditor.formatter.apply("WYSIWYG_COLOR",{value:i}),tinyMCEPopup.close()}};ColoursDlg.preInit(),tinyMCEPopup.onInit.add(ColoursDlg.init,ColoursDlg);

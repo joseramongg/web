@@ -1,1 +1,0 @@
-"use strict";jQuery(function(t){t(".jqMaskedInput:not(.jqInitedMaskedInput)").livequery(function(){var a=t(this),e=a.attr("mask"),s=t.extend({mask:e},a.data(),a.metadata());a.addClass("jqInitedMaskedInput").mask(s.mask,s)})});

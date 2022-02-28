@@ -1,1 +1,0 @@
-"use strict";jQuery(function(e){var n={speed:1e3,timeout:5e3,type:"sequence",containerheight:"auto"};e(".jqInnerfade:not(.jqInitedInnerfade)").livequery(function(){var t=e(this);t.addClass("jqInitedInnerfade");var a=e.extend({},n,t.data(),t.metadata());t.innerfade(a)})});
