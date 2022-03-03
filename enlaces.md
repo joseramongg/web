@@ -14,3 +14,4 @@ title: Enlaces
 [Programming Historian en español](https://programminghistorian.org/es/){:target="_blank"} |
 [BookDown](https://bookdown.org){:target="_blank"} |
 [RPubs](https://rpubs.com){:target="_blank"} |
+[W3Schools](https://www.w3schools.com){:target="_blank"} |
