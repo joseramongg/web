@@ -5,7 +5,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Aula Vir
 
 <hr size="5px" color="#268BD4" />
 
-En el menú lateral encontrarás información sobre mi [Experiencia](experiencia.md) y [Formación](formacion.md) y también sobre los módulos de [Certificados de Profesionalidad](docencia.md) en los que estoy acreditado.  
+En el menú lateral encontrarás información sobre mi [Experiencia](experiencia.md) y [Formación](formacion.md) y también sobre módulos de [Certificados de Profesionalidad](docencia.md) en los que estoy acreditado.  
 
 <hr size="5px" color="#268BD4" />
 
