@@ -11,7 +11,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
 <hr size="5px" color="#268BD4" />
 
 2018-2021 
-:	***Grado Superior en Administración y Finanzas.***  
+:	***Técnico Superior en Administración y Finanzas.***  
 *Instituto Fernando Wirtz - Xunta de Galicia*  
 	- Titulación: Técnico Superior en Administración y Finanzas.  
     - Modulos: Recursos Humanos, Gestión Jurídica, PIAC, FOL, Gestión Financiera, Contabilidad y Fiscalidad, Simulación Empresarial, Gestión Logística y comercial. (2000 horas.)   
