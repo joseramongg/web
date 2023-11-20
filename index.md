@@ -9,5 +9,5 @@ En el menú lateral encontrarás información sobre mi [Experiencia](experiencia
 
 <hr size="5px" color="#268BD4" />
 
-Visita mi página de [LinkedIn] (https://www.linkedin.com/in/joseramongg/){:target="_blank"}
+Visita mi página de [LinkedIn](https://www.linkedin.com/in/joseramongg/){:target="_blank"}
 
