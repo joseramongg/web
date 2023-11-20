@@ -7,7 +7,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Aula Vir
 
 En el menú lateral encontrarás información sobre mi [Experiencia](experiencia.md) y [Formación](formacion.md) y también sobre módulos de [Certificados de Profesionalidad](docencia.md) en los que estoy acreditado para impartir Formación Profesional para el Empleo. 
 
-También puedes consultar [enlaces](enlaces.md) a sitios web interesantes.
+También puedes consultar [enlaces](enlaces.md) a sitios web que consulto habitualmente.
 
 <hr size="5px" color="#268BD4" />
 
