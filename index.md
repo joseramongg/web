@@ -1,6 +1,5 @@
 <!--html><a href="https://www.gitanos.org/20anosacceder/" target="_blank"><center><img src="acceder20.png"><center></html--> 
 <a tittle="LinkedIn" href="https://www.linkedin.com/in/joseramongg" target="_blank"><img src="linkedin.png"></a>  
-<a tittle="Twitter" href="https://twitter.com/joseramongg" target="_blank"><img src="twitter.png"></a>  
 
 E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Aula Virtual: [aula.jrgarcia.es](https://aula.jrgarcia.es/){:target="_blank"} (Apagada)   
 
