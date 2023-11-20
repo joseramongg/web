@@ -10,6 +10,4 @@ En el menú lateral encontrarás información sobre mi [Experiencia](experiencia
 <hr size="5px" color="#268BD4" />
 
 
-<a href=”https://www.linkedin.com/in/joseramongg/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
-<a class="twitter-timeline" href="https://twitter.com/joseramongg?ref_src=twsrc%5Etfw">Mis Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> |
