@@ -10,3 +10,5 @@ En el menú lateral encontrarás información sobre mi [Experiencia](experiencia
 <hr size="5px" color="#268BD4" />
 
 <a class="twitter-timeline" href="https://twitter.com/joseramongg?ref_src=twsrc%5Etfw">Mis Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> |
+
+<a href=”https://www.linkedin.com/in/joseramongg/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
