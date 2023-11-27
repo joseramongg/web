@@ -5,6 +5,7 @@ description:         'ACCEDER es un servicio público de intermediación laboral
 url:                 https://jrgarcia.es/
 baseurl:             ''
 paginate:            5
+paginate_path: "/page:num/"
 permalink:           pretty
 
 # About/contact
