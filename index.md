@@ -9,6 +9,8 @@ En el menú lateral encontrarás información sobre mi [Experiencia](experiencia
 
 También puedes consultar [enlaces](enlaces.md) a sitios web que consulto habitualmente.
 
+Soy prospector de empleo del Programa ACCEDER de la Fundación Secretariado Gitano. ACCEDER es un servicio de intermediación y negociación con empresas para la inserción laboral de colectivos en riesgo de exclusión social en igualdad de condiciones que el resto de la ciudadanía.
+
 <hr size="5px" color="#268BD4" />
 
 
