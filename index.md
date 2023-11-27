@@ -5,6 +5,10 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Aula Vir
 
 <hr size="5px" color="#268BD4" />
 
+En el menú lateral encontrarás información sobre mi [Experiencia](experiencia.md) y [Formación](formacion.md) y también sobre módulos de [Certificados de Profesionalidad](docencia.md) en los que estoy acreditado para impartir Formación Profesional para el Empleo. 
+
+También puedes consultar [enlaces](enlaces.md) a sitios web que consulto habitualmente.
+
 Soy prospector de empleo del Programa ACCEDER de la Fundación Secretariado Gitano en Santiago de Compostela. 
 
 Acceder es el Programa de Empleo de la Fundación Secretariado Gitano centrada en funciones de:
@@ -28,9 +32,6 @@ Acceder es el Programa de Empleo de la Fundación Secretariado Gitano centrada e
 
 ✓ El objetivo principal es mejorar la situación de personas pertenecientes a comunidades en riesgo de exclusión social, aumentando su presencia en el mercado laboral, la contratación y la calidad de los puestos de trabajo.
 
-En el menú lateral encontrarás información sobre mi [Experiencia](experiencia.md) y [Formación](formacion.md) y también sobre módulos de [Certificados de Profesionalidad](docencia.md) en los que estoy acreditado para impartir Formación Profesional para el Empleo. 
-
-También puedes consultar [enlaces](enlaces.md) a sitios web que consulto habitualmente.
 
 <hr size="5px" color="#268BD4" />
 
