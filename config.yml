@@ -3,7 +3,7 @@ title:               José Ramón García
 tagline:             'Prospector Laboral'
 description:         'ACCEDER es un servicio público de intermediación laboral dirigido a empresas y a personas, con la finalidad de poner en contacto ofertas y demandas de empleo.'
 url:                 https://jrgarcia.es/
-baseurl:             
+theme:             theme: jekyll-theme-minimal
 paginate:            10
 paginate_path: "/page:num/"
 permalink:           pretty
