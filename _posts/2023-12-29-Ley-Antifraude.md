@@ -2,8 +2,6 @@
 layout: post
 title: Ley Antifraude
 subtitle: Obligado cumplimeinto a partir de julio de 2025.
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [tecnologia]
 comments: true
 author: José Ramón García
