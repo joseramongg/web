@@ -27,8 +27,6 @@ Acceder es el Programa de Empleo de la Fundación Secretariado Gitano centrada e
 ✓ El objetivo principal es mejorar la situación de personas pertenecientes a comunidades en riesgo de exclusión social, aumentando su presencia en el mercado laboral, la contratación y la calidad de los puestos de trabajo.
 
 
-<hr size="5px" color="#268BD4" />
-
 
 
 
