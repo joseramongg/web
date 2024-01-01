@@ -9,7 +9,7 @@ En el menú lateral encontrarás información sobre mi [Experiencia](experiencia
 
 También puedes consultar [enlaces](enlaces.md) a sitios web que consulto habitualmente y también acceder al [Blog](blog.md) donde encontrarás artículos de interés.
 
-Soy prospector de empleo del Programa ACCEDER de la Fundación Secretariado Gitano en Santiago de Compostela. 
+Soy prospector de empleo del <strong>Programa ACCEDER</strong> de la Fundación Secretariado Gitano en Santiago de Compostela. 
 
 Acceder es el Programa de Empleo de la Fundación Secretariado Gitano centrada en funciones de:
 
