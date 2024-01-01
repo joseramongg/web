@@ -7,7 +7,7 @@ comments: true
 author: José Ramón García
 ---
 
-La Ley Antifraude 11/2021, de obligado cumplimiento a partir del 1 de enero de 2024, obligará a las empresas a generar un registro por cada factura expedida con un sistema o programa de software que garantice su inalterabilidad, trazabilidad y conservación, así como su integridad, accesibilidad y legibilidad.
+La Ley Antifraude 11/2021, de obligado cumplimiento a partir del 1 de julio de 2025, obligará a las empresas a generar un registro por cada factura expedida con un sistema o programa de software que garantice su inalterabilidad, trazabilidad y conservación, así como su integridad, accesibilidad y legibilidad.
 
 A partir de esta fecha, todas las empresas deberán emitir las facturas mediante programas informáticos al que tendrán acceso inmediato las asesorías fiscales y la Agencia Tributaria con el objeto de agilizar la gestión contable y evitar fraudes.
 
