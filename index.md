@@ -11,9 +11,9 @@ También puedes consultar [enlaces](enlaces.md) a sitios web que consulto habitu
 
 Soy prospector de empleo del Programa ACCEDER de la Fundación Secretariado Gitano en Santiago de Compostela. 
 
-<hr size="5px" color="#268BD4" />
 Acceder es el Programa de Empleo de la Fundación Secretariado Gitano centrada en funciones de:
 
+<hr size="5px" color="#268BD4" />
 ▪ Servicio público de intermediación laboral dirigido a empresas y desempleados/as. |
 ▪ Intermediación con empresas con la finalidad de poner en contacto ofertas y demandas de empleo.  |
 ▪ Firma de convenios con empresas para la colaboración en procesos de formación y prácticas. |
