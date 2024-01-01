@@ -14,7 +14,7 @@ Soy prospector de empleo del Programa ACCEDER de la Fundación Secretariado Gita
 Acceder es el Programa de Empleo de la Fundación Secretariado Gitano centrada en funciones de:
 
 > ▪ Servicio público de intermediación laboral dirigido a empresas y desempleados/as.
-> ▪ Intermediación con empresas con la finalidad de poner en contacto ofertas y demandas de empleo. 
+>  ▪ Intermediación con empresas con la finalidad de poner en contacto ofertas y demandas de empleo. 
 > ▪ Firma de convenios con empresas para la colaboración en procesos de formación y prácticas.
 > ▪ Orientación y formación en búsqueda activa de empleo.
 > ▪ Selección de perfiles profesionales.
