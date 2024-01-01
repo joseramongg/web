@@ -33,11 +33,12 @@ En definitiva esta ley busca reducir el fraude, prohibir la utilización de soft
 El incumplimiento de la ley conlleva dos tipos de sanciones, una dirigida a los fabricantes de “software de doble uso” y otra para los usuarios. Cualquier autónomo o empresa que no cumpla con la Ley 11/2201 podrá ser sancionado con multas de hasta 50.000 y 150.000 euros, respectivamente.
 
 ## RAZONES PARA ADELANTARSE A LA LEY
-PREVENCIÓN:
+
+> PREVENCIÓN:
 En Meigasoft hemos estado trabajando desde la salida de la ley en el cumplimiento de los requisitos. Nuestros clientes disfrutarán de total garantía a la hora del cumplimiento de la ley.
 
-ACTUALIZACIÓN:
+> ACTUALIZACIÓN:
 Nuestros sistemas estarán continuamente actualizados y protegidos ante los futuros cambios y modificaciones de la Ley 11/2021. Serán procesos totalmente transparentes para nuestros clientes.
 
-COMPETITIVIDAD:
+> COMPETITIVIDAD:
 Todo el ahorro de tiempo en gestiones que conllevarán estos cambios, revertirá en una ventaja competitiva de nuestros clientes respecto a su competencia.
