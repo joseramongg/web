@@ -7,7 +7,7 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Aula Vir
 
 En el menú lateral encontrarás información sobre mi [Experiencia](experiencia.md) y [Formación](formacion.md) y también sobre módulos de [Certificados de Profesionalidad](docencia.md) en los que estoy acreditado para impartir Formación Profesional para el Empleo. 
 
-También puedes consultar [enlaces](enlaces.md) a sitios web que consulto habitualmente.
+También puedes consultar [enlaces](enlaces.md) a sitios web que consulto habitualmente y también acceder al [Blog](blog.md) donde encontrarás artículos de interés.
 
 Soy prospector de empleo del Programa ACCEDER de la Fundación Secretariado Gitano en Santiago de Compostela. 
 
