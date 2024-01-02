@@ -7,11 +7,11 @@ comments: true
 author: José Ramón García
 ---
 
-La Ley Antifraude 11/2021, de obligado cumplimiento a partir del 1 de julio de 2025, obligará a las empresas a generar un registro por cada factura expedida con un sistema o programa de software que garantice su inalterabilidad, trazabilidad y conservación, así como su integridad, accesibilidad y legibilidad.
+La Ley Antifraude 11/2021, de obligado cumplimiento a partir del 1 de julio de 2025 (9 meses de plazo para desarrolladores y proveedores de ERP), obligará a las empresas a generar un registro por cada factura expedida con un sistema o programa de software que garantice su inalterabilidad, trazabilidad y conservación, así como su integridad, accesibilidad y legibilidad.
 
 A partir de esta fecha, todas las empresas deberán emitir las facturas mediante programas informáticos al que tendrán acceso inmediato las asesorías fiscales y la Agencia Tributaria con el objeto de agilizar la gestión contable y evitar fraudes.
 
-En Meigasoft estamos dando todos los pasos necesarios para cumplir con los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos exigidos y, llegado el momento, estar homologados como software certificado. Estamos trabajando para adaptar nuestro software a los requisitos de la Administración para que nuestros clientes puedan cumplir con la normativa sin ningún tipo de preocupación.
+En Meigasoft nos hemos adelantado y hemos dado todos los pasos necesarios para cumplir con los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos exigidos. Hemos adaptado nuestro software a los requisitos de la Administración para que nuestros clientes puedan cumplir con la normativa sin ningún tipo de preocupación.
 
 ## REQUISITOS
 Nuestros clientes podrán garantizar ante las entidades auditoras que sus procesos cumplen con las exigencias del reglamento:
@@ -26,7 +26,7 @@ Respecto a los registros de facturación, la ley exige la generación de un regi
 
 
 ## INSPECCIONES Y SANCIONES
-Todos los sistemas informáticos deben estar homologados por la Agencia Tributaria antes del 1 de enero de 2024. Además, la administración tendrá la potestad de personarse y exigir acceso completo e inmediato a los sistemas así como requerir copia de los registros con el objetivo de verificar el cumplimento de los requisitos del Reglamento de los sistemas informáticos producidos o comercializados.
+Todos los sistemas informáticos deben estar homologados por la Agencia Tributaria antes del 1 de julio de 2025. Además, la administración tendrá la potestad de personarse y exigir acceso completo e inmediato a los sistemas así como requerir copia de los registros con el objetivo de verificar el cumplimento de los requisitos del Reglamento de los sistemas informáticos producidos o comercializados.
 
 En definitiva esta ley busca reducir el fraude, prohibir la utilización de software de doble uso, prohibir llevar contabilidades distintas e impedir la alteración transacciones ya registradas incumpliendo la normativa aplicable.
 
