@@ -10,8 +10,7 @@ title: Artículos
 
 {% for post in site.posts %}
 
-[{{ post.title }}]({{ post.url }})
-{{ post.date | date: "%B %d, %Y" }}
-{{ post.content | strip_html | truncate: 250 }}
+{{ post.title }}({{ post.url }}) &raquo; {{ post.date | date_to_string }}
+{{ post.content | strip_html | truncate: 150 }}
 
 {% endfor %}
