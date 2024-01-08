@@ -43,4 +43,4 @@ Nuestros sistemas estarán continuamente actualizados y protegidos ante los futu
 > COMPETITIVIDAD:
 Todo el ahorro de tiempo en gestiones que conllevarán estos cambios, revertirá en una ventaja competitiva de nuestros clientes respecto a su competencia.
 
-[**Volver al índice del Blog**](https://jrgarcia.es/artículos.html)
+[**Volver al índice**](https://jrgarcia.es/artículos.html)
