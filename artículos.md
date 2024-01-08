@@ -15,9 +15,9 @@ title: Artículos
 {% for post in site.posts %}
   {% assign currentdate = post.date | date: "%B %Y" %}
   {% if currentdate != date %}
-  <h3>{{ currentdate }}</h3>
+  <h4>{{ currentdate }}</h4>
     {% assign date = currentdate %}
   {% endif %}
-  <strong><a href="{{ post.url }}">{{ post.title }}</a></strong><br>
+  <a href="{{ post.url }}">{{ post.title }}</a><br>
   <em>{{ post.description }}</em>
 {% endfor %}
