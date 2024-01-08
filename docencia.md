@@ -179,4 +179,5 @@ E-mail: [jose@jrgarcia.es](mailto:jose@jrgarcia.es){:target="_blank"} | Web: [ht
  	<li>UF0514: Gestión auxiliar de reproducción en soporte convencional o informático</li>
 </ul>
 
-[**Volver a inicio**](https://jrgarcia.es)
+
+<<[Volver al Inicio](https://jrgarcia.es)
