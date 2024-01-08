@@ -14,12 +14,12 @@ author:
   url:               https://jrgarcia.es
   email:             jose@jrgarcia.es
 
-# Gems
-#gem 'github-pages', '170', group: :jekyll_plugins
-#plugins:
-#  - jekyll-paginate
-#  - jekyll-feed
-#  - jekyll-sitemap
+Gems
+gem 'github-pages', '170', group: :jekyll_plugins
+plugins:
+- jekyll-paginate
+- jekyll-feed
+- jekyll-sitemap
 
 # Custom vars
 version:             1.1.0
