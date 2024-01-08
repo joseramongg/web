@@ -43,6 +43,6 @@ Nuestros sistemas estarán continuamente actualizados y protegidos ante los futu
 > COMPETITIVIDAD:
 Todo el ahorro de tiempo en gestiones que conllevarán estos cambios, revertirá en una ventaja competitiva de nuestros clientes respecto a su competencia.
 
-<font color='red'>rojo</font>
+<font color='red'>Volver al índice</font>
 [**Volver al índice**](https://jrgarcia.es/artículos.html)
 
