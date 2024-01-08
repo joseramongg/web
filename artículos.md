@@ -20,4 +20,6 @@ title: Artículos
   {% endif %}
   <a href="{{ post.url }}">{{ post.title }}</a><br>
   <em>{{ post.description }}</em>
+  <br> <i>{{ post.content | strip_html | truncate: 120 }}</i> <a href="{{ site.url }}{{ post.url }}" title="Leer más"><i>Leer más...</i></a>
+
 {% endfor %}
