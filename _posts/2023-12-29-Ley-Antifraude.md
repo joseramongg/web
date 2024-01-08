@@ -6,7 +6,7 @@ tags: [tecnologia]
 comments: true
 author: José Ramón García
 ---
-[**Volver**](https://jrgarcia.es/blog.html)
+[**Volver al índice del Blog**](https://jrgarcia.es/blog.html)
 
 **La Ley Antifraude 11/2021**, de obligado cumplimiento a partir del 1 de julio de 2025 (9 meses de plazo para desarrolladores y proveedores de ERP), obligará a las empresas a generar un registro por cada factura expedida con un sistema o programa de software que garantice su inalterabilidad, trazabilidad y conservación, así como su integridad, accesibilidad y legibilidad.
 
@@ -44,4 +44,4 @@ Nuestros sistemas estarán continuamente actualizados y protegidos ante los futu
 > COMPETITIVIDAD:
 Todo el ahorro de tiempo en gestiones que conllevarán estos cambios, revertirá en una ventaja competitiva de nuestros clientes respecto a su competencia.
 
-[**Volver**](https://jrgarcia.es/blog.html)
+[**Volver al índice del Blog**](https://jrgarcia.es/blog.html)
