@@ -3,18 +3,6 @@ layout: page
 title: Blog
 ---
 
-
 {% for post in site.posts %}
-    <div class="post-box">
-      <div class="post-title">
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </div>
-      <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-      <p class="post-excerpt">{{ post.excerpt }}</p>
-      <div>
-        {% for category in post.categories %}
-          <a href="#">#{{ category }}</a>
-        {% endfor %}
-      </div>
-    </div>
-  {% endfor %}
+  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+{% endfor %}
