@@ -13,7 +13,7 @@ A partir de esta fecha, todas las empresas deberán emitir las facturas mediante
 
 En **Meigasoft** nos hemos adelantado y hemos dado todos los pasos necesarios para cumplir con los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos exigidos. Hemos adaptado nuestro software a los requisitos de la Administración para que nuestros clientes puedan cumplir con la normativa sin ningún tipo de preocupación.
 
-## REQUISITOS
+<span style="color: #268BD4;">REQUISITOS</span>## REQUISITOS
 Nuestros clientes podrán garantizar ante las entidades auditoras que sus procesos cumplen con las exigencias del reglamento:
 
 Integridad e inalterabilidad
