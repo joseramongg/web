@@ -15,4 +15,5 @@ title: Enlaces
 [Paquetes R](https://cran.r-project.org/web/packages/available_packages_by_name.html){:target="_blank"} |
 
 
-[**Volver a inicio**](https://jrgarcia.es)
+
+<<[Volver al Inicio](https://jrgarcia.es)
