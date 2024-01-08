@@ -4,7 +4,7 @@ title: Artículos
 ---
 
 {% for post in site.posts %}
-<br>
-  * {{ post.date | date }} &raquo; [ {{ post.title }} ]({{ post.url }}) <br> <i>{{ post.content | strip_html | truncate: 150 }}</i>{
+
+  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }}) <br> <i>{{ post.content | strip_html | truncate: 150 }}</i>{
 {% endfor %}
 
