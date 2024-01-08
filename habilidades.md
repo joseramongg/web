@@ -43,3 +43,5 @@ A nivel empresarial he formado parte de comités de dirección ejecutiva lo que 
 - Experiencia en proyectos de gestión del desempeño de plantillas.
 
 <hr size="5px" color="#268BD4" />
+
+[**Volver a inicio**](https://jrgarcia.es)
