@@ -45,3 +45,4 @@ Nuestros sistemas estarán continuamente actualizados y protegidos ante los futu
 Todo el ahorro de tiempo en gestiones que conllevarán estos cambios, revertirá en una ventaja competitiva de nuestros clientes respecto a su competencia.
 
 [**Volver al índice**](https://jrgarcia.es/artículos.html)
+<h3 style:color="color:Tomato;">Volver al índice</h3>
