@@ -13,7 +13,7 @@ title: Artículos
 
 
 {% for post in site.posts %}
-  {% assign currentdate = post.date | date: "%B %Y" %}
+  {% assign currentdate = post.date | date: "%-d/%-m/%Y"}
   {% if currentdate != date %}
   <h4>{{ currentdate }}</h4>
     {% assign date = currentdate %}
