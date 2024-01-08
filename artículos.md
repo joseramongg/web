@@ -11,15 +11,3 @@ title: Artículos
 <<[Volver al Inicio](https://jrgarcia.es)
 
 
-
-{% for post in site.posts %}
-  {% assign currentdate = post.date | date: "%-d/%-m/%Y"}
-  {% if currentdate != date %}
-  <h4>{{ currentdate }}</h4>
-    {% assign date = currentdate %}
-  {% endif %}
-  <a href="{{ post.url }}">{{ post.title }}</a><br>
-  <em>{{ post.description }}</em>
-  <br> <i>{{ post.content | strip_html | truncate: 120 }}</i> <a href="{{ site.url }}{{ post.url }}" title="Leer más"><i>Leer más...</i></a>
-
-{% endfor %}
