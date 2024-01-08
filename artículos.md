@@ -10,3 +10,14 @@ title: Artículos
 <hr size="5px" color="#268BD4" />
 <<[Volver al Inicio](https://jrgarcia.es)
 
+
+
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%B %Y" %}
+  {% if currentdate != date %}
+  <h3>{{ currentdate }}</h3>
+    {% assign date = currentdate %}
+  {% endif %}
+  <strong><a href="{{ post.url }}">{{ post.title }}</a></strong><br>
+  <em>{{ post.description }}</em>
+{% endfor %}
