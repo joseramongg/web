@@ -135,4 +135,4 @@ trabajadores en materia de Prevención.
 	
 <hr size="5px" color="#268BD4" />
 
-[**Volver a inicio**](https://jrgarcia.es)
+<<[Volver al Inicio](https://jrgarcia.es)
