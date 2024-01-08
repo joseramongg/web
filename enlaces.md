@@ -13,3 +13,6 @@ title: Enlaces
 [W3Schools](https://www.w3schools.com){:target="_blank"} |
 [Github](https://github.com){:target="_blank"} |
 [Paquetes R](https://cran.r-project.org/web/packages/available_packages_by_name.html){:target="_blank"} |
+
+
+[**Volver a inicio**](https://jrgarcia.es)
