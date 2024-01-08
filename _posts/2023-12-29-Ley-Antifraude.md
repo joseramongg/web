@@ -12,7 +12,7 @@ author: José Ramón García
 A partir de esta fecha, todas las empresas deberán emitir las facturas mediante programas informáticos al que tendrán acceso inmediato las asesorías fiscales y la Agencia Tributaria con el objeto de agilizar la gestión contable y evitar fraudes.
 
 
-!(/assets/img/INFORMATICABAJA-1030x688.jpg)
+!(img/INFORMATICABAJA-1030x688.jpg)
 
 En **Meigasoft** nos hemos adelantado y hemos dado todos los pasos necesarios para cumplir con los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos exigidos. Hemos adaptado nuestro software a los requisitos de la Administración para que nuestros clientes puedan cumplir con la normativa sin ningún tipo de preocupación.
 
