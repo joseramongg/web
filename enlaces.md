@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Webs
+title: Enlaces
 ---
 
 <hr size="5px" color="#268BD4" />
