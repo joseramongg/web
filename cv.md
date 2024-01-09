@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: Currículum
+---
 <h1><strong>Currículum</strong></h1>
 
 <hr size="5px" color="#268BD4" />
