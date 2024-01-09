@@ -2,8 +2,6 @@
 layout: page
 title: Currículum
 ---
-<h1><strong>Currículum</strong></h1>
-
 <hr size="5px" color="#268BD4" />
 
 <p><h2><span style="color:#268BD4">Contacto</span></h2></p>
