@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wiki
+title: B-learning
 ---
 
 <hr size="5px" color="#268BD4" />
