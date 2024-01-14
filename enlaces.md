@@ -12,6 +12,7 @@ title: Enlaces
 [RPubs](https://rpubs.com){:target="_blank"} |
 [W3Schools](https://www.w3schools.com){:target="_blank"} |
 [Github](https://github.com){:target="_blank"} |
+[Gitbook](https://www.gitbook.com/){:target="_blank"} |
 [Paquetes R](https://cran.r-project.org/web/packages/available_packages_by_name.html){:target="_blank"} |
 
 
