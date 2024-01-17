@@ -7,7 +7,7 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
-    <img src="/jr.png">
+     <center><img src="/jr.png"></center>
   </div>
 
 
@@ -31,8 +31,7 @@
       {% if node.title != null %}
         {% if node.layout == "page" %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
-     <a class="sidebar-nav-item" href="{{ https://jrgarcia.gitbook.io/neoshop/ }}"><em>Neoshop</em></a>
-       {% endif %}
+            {% endif %}
       {% endif %}
     {% endfor %}
 
