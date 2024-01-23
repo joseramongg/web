@@ -128,10 +128,10 @@ trabajadores en materia de Prevención.
 <hr size="5px" color="#268BD4" />
 
 1981-1983 
-:	***Certificado Idioma Inglés***  
+:	***Certificados Idioma Inglés***  
 *Trinity College Dublín*  
 	- Certificado Nivel 9. 
-    - Escuela Oficial de Idiomas (B1). 
+    - Certificado B1 Escuela Oficial de Idiomas. 
 	
 <hr size="5px" color="#268BD4" />
 
