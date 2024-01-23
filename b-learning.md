@@ -4,11 +4,11 @@ title: B-learning
 ---
 
 <hr size="5px" color="#268BD4" />
-[Curso de Velneo](https://jrgarcia.gitbook.io/velneo/){:target="_blank"}  |
-[Curso de R](https://jrgarcia.gitbook.io/r/){:target="_blank"}  |
-[Curso de Amibroker](https://jrgarcia.gitbook.io/amibroker/){:target="_blank"}  |
-[Curso de SQL](https://jrgarcia.gitbook.io/sql/){:target="_blank"}  |
-[Curso de HTML y CSS](https://jrgarcia.gitbook.io/html-y-css/){:target="_blank"}  |
+[Curso de Velneo](https://velneo.jrgarcia.es/){:target="_blank"}  |
+[Curso de R y RStudio](https://rstudio.jrgarcia.es/){:target="_blank"}  |
+[Curso de HTML y CSS](https://htmlcss.jrgarcia.es/){:target="_blank"}  |
+[Curso de NeoERP](https://erp.jrgarcia.es/){:target="_blank"}  |
+[Curso de orientación laboral](https://laboral.jrgarcia.es/){:target="_blank"}  |
   
   
 <<[Volver al Inicio](https://jrgarcia.es)
