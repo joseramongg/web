@@ -113,7 +113,7 @@ trabajadores en materia de Prevención.
 2007-2007 
 :	***CELGA 4***  
 *IES Plurilingüe Rosalía de Castro. Santiago de Compostela.*  
-	- Validación de nivel de competencia gallega equivalente a un Celga 4, que corresponde con el nivel C1 del Marco Europeo común de referencia para las lenguas.  
+	- Validación de nivel de competencia gallega Celga 4, que corresponde con el nivel C1 del Marco Europeo común de referencia para las lenguas.  
         
 	
 <hr size="5px" color="#268BD4" />
