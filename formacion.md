@@ -131,7 +131,7 @@ trabajadores en materia de Prevención.
 :	***Certificado Idioma Inglés***  
 *Trinity College Dublín*  
 	- Certificado nivel 11/12. 
-    - Residencia en Dublín. 
+    - Escuela Oficial de Idiomas (B1). 
 	
 <hr size="5px" color="#268BD4" />
 
