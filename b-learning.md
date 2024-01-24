@@ -1,7 +1,3 @@
----
-layout: page
-title: B-learning
----
 
 <hr size="5px" color="#268BD4" />
 [Curso de Velneo](https://velneo.jrgarcia.es/)  |
